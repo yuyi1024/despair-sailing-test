@@ -1,0 +1,71 @@
+/*navbar start*/
+.eye{
+  width: 40px;
+  height: 50px;
+  margin-top: -50px;
+  margin-left: 30%;
+  position:absolute;
+  z-index: -10;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -o-transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+}
+
+nav li a:hover + .eye{
+    opacity: 100;
+}
+.active .eye{
+    opacity: 100;
+}
+.site-branding{
+  top:10px !important;
+}
+.navigation-top{
+  background-color: #000000;
+  border: 1px solid #000000;
+}
+.navigation-top .wrap {
+    padding: 0.55em 2em;
+}
+.navigation-top a{
+  color: #fff;
+  font-family: Microsoft JhengHei !important;
+  font-size: 16px;
+}
+.navigation-top a:focus{
+  text-decoration: none;
+}
+.main-navigation a:hover, .navigation-top .current_page_item > a{
+  color: #fff;
+}
+.navigation-top .current_page_item > .eye{
+  opacity: 100;
+}
+.main-navigation ul ul {
+  background: #000;
+  border: 0px solid #bbb;
+}
+.sub-menu a{
+  font-weight: 500;
+}
+.main-navigation ul ul a {
+    padding: 0.75em 1.25em;
+    width: 10em;
+}
+.main-navigation li li:hover, .main-navigation li li.focus {
+    background: #000000;
+}
+a:hover{
+  text-decoration:none !important;
+}
+.arr{
+  width: 18px;
+  margin-top: -5px;
+  display:none;
+}
+.sub-menu li a:hover > .arr{
+  display: inline-block;
+}
+/*navbar end*/
