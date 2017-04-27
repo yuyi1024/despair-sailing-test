@@ -32,7 +32,16 @@
 					<h2 class="title">行事曆</h2>
 					<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
 					
-					<iframe src="https://teamup.com/kszb3sb1sth3mn4rfh" frameborder="0" width="80%" height="700"></iframe>
+					<div class="computer">
+						<iframe src="https://teamup.com/kszb3sb1sth3mn4rfh" frameborder="0" width="80%" height="700"></iframe>
+					</div>
+
+					<div class="phone">
+						<iframe src="https://teamup.com/kszb3sb1sth3mn4rfh" frameborder="0" width="90%" height="1200"></iframe>
+					</div>
+
+
+
 
 				</div>
 			</div>
@@ -45,5 +54,17 @@
 		border: 0;
 		margin: -20px auto 30px;
     display: block;
+	}
+	.phone{
+		display: none;
+	}
+
+	@media only screen and (max-width: 1000px) {
+		.computer{
+			display: none;
+		}
+		.phone{
+			display: block;
+		}
 	}
 </style>

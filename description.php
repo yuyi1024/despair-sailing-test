@@ -323,4 +323,9 @@
 		bottom: 30px;
 		right: 0;
 	}
+	@media only screen and (max-width: 1000px) {
+		.reference{
+			bottom: -70px;
+		}
+	}
 </style>

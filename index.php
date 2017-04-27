@@ -133,7 +133,7 @@ span, a{
   position: fixed;
 }
 .btn{
-  position: absolute;;
+  position: absolute;
   bottom: 50px;
   left: 50%;
   font-size: 25px;
@@ -177,4 +177,33 @@ span{
   background-color: #000;
   z-index: 99999999;
 }
+
+
+@media only screen and (max-width: 1000px) {
+  .container{
+    margin: 25% auto;
+    line-height: 80px;
+  }
+  .blood1{
+    bottom: 60px;
+    width: 35%;
+  }
+  .blood2{
+    bottom: 300px;
+    width: 35%;
+  }
+  .btn{
+    bottom: 150px;
+    font-size: 30px;
+  }
+  .aa{
+    background-image: url(plugins/typed-js-master/img/bg.png);
+    background-size: 700px auto;
+    background-position: 50% 600%;
+  }
+  span{
+    font-size: 26px;
+  }
+}
+
 </style>

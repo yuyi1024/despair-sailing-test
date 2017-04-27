@@ -105,6 +105,12 @@ p, h1, h2, h3, h4, h5, h6, button{
   position: absolute;
   top: 50px;
 }
+@media only screen and (max-width: 1000px) {
+  #container{
+    background-image: url(../images/blood2_phone.png) !important;
+    background-repeat: repeat !important;
+  }
+}
 h2.title{
   text-align: center;
   padding-top: 50px;
@@ -321,10 +327,15 @@ h2.title{
 /*about start*/
 .about_sec1{
   width: 50%;
-  margin: 50px auto 100px;
+  margin: 50px auto 50px;
   background-color: rgba(0,0,0,0.05);
   padding: 30px 20px 10px;
   border-radius: 10px;
+}
+@media only screen and (max-width: 1000px) {
+  .about_sec1{
+    width: 70%;
+  }
 }
 .about_sec1:hover{
   background-color: rgba(0,0,0,0.1);

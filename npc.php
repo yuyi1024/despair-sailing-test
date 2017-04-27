@@ -68,6 +68,21 @@
 							</div>
 						</div>
 
+						<!--空格-->
+						<div style="width:100%; height:700px;" class="long"></div>
+						<style type="text/css">
+							.long{
+								display:none;
+							}
+							@media only screen and (max-width: 1000px) {
+								.long{
+									display:block;
+								}
+							}
+						</style>
+
+
+
 					</div>
 				</div>		
 			</div>

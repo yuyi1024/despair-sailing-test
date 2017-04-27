@@ -74,7 +74,7 @@
 								<div id="QandA">
 									<p class="Question">Q2.可以在其他社群平台進行這個企劃的宣傳嗎？ <img src="images/new.gif"></p>
 									<div class="Answer">
-										<p>A2.本企劃不接受在噗浪以外的平台宣傳，感謝您的好意。</p>
+										<p>A2.本企劃暫時不接受在噗浪以外的平台宣傳。若未來有在其他平台上宣傳的需求，將會由企劃官方自行發佈相關消息。</p>
 									</div>
 								</div>
 							</div>
@@ -85,7 +85,7 @@
 								<div id="QandA">
 									<p class="Question">Q1.如果才能跟其他角色重複可以嗎? <img src="images/new.gif"></p>
 									<div class="Answer">
-										<p>A1.可以。<br/>但是於正式入學名單中，一種才能僅限一位，若有重複將以抽籤決定。意願調查時填寫的才能可作為參考。</p>
+										<p>A1.可以。但是於正式入學名單中，一種才能僅限一位，若有重複將以抽籤決定。意願調查時填寫的才能可作為參考。</p>
 									</div>
 								</div>
 							</div>
@@ -108,6 +108,21 @@
 								</div>
 							</form>
 						</div>
+
+
+						<!--空格-->
+						<div style="width:100%; height:200px;" class="long"></div>
+						<style type="text/css">
+							.long{
+								display:none;
+							}
+							@media only screen and (max-width: 1000px) {
+								.long{
+									display:block;
+								}
+							}
+						</style>
+
 
 					</div>
 				</div>		

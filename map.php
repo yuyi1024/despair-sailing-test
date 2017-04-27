@@ -27,7 +27,8 @@
 		</style>
     
 			<div id="container" class="container">
-			<p style="position:fixed; right:0; top:75px; color:red;">建議使用 Chrome 瀏覽器觀看。</p>
+			<p style="position:fixed; right:0; top:75px; color:red;" class="notice1">請使用 Chrome 瀏覽器觀看。</p>
+			<p style="position:fixed; right:0; top:75px; color:red;" class="notice2">預觀看詳細地圖請使用電腦瀏覽。</p>
 				<div class="row">
 					<div class="col-lg-12">
 						<h2 class="title">地圖</h2>
@@ -95,3 +96,24 @@
 		
 	</body>
 </html>
+
+<style type="text/css">
+	.notice2{
+		display: none;
+		font-size: 26px;
+	}
+
+	@media only screen and (max-width: 1000px) {
+	  .a,.b,.c,.d,.e,.f,.g,.h,.i{
+	    display: none !important;
+	  }
+	  .notice1{
+			display: none;
+		}
+		.notice2{
+			display: block;
+		}
+	}
+
+
+</style>

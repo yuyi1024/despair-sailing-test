@@ -50,7 +50,22 @@
 							<h3><b>表單連結</b></h3>
 							<img src="images/title2.png" class="sub_title">
 							<div class="text">
-								<p>意願調查表單： <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYQ-rycyOKZ53mB5UBiHYHysAyfT2b9tqoJlTWIbbF746AMw/viewform">google form</a></p>		
+								<p>意願調查表單： <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYQ-rycyOKZ53mB5UBiHYHysAyfT2b9tqoJlTWIbbF746AMw/viewform">google form</a></p>	
+								<p>報名表單： 尚未開放</p>		
+								<p>主線案件報名表單： 尚未開放</p>	
+							</div>
+						</div>
+
+						<div class="about_sec1 animate-left">
+							<h3><b>Staff</b></h3>
+							<img src="images/title2.png" class="sub_title">
+							<div class="text">
+								<p>主催：黑白狐的<b>肚臍</b></p>
+								<p>文案編輯：黑白狐的<b>填充棉</b></p>
+								<p>顧問：黑白狐的<b>尾巴</b></p>
+								<p>美術：黑白狐的<b>肉球</b></p>
+								<p>網站設計&架設：黑白狐的<b>肚臍</b></p>
+								<p>？？？：黑白狐的<b>腦垂腺</b></p>
 							</div>
 						</div>
 

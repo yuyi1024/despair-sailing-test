@@ -25,7 +25,7 @@
 			<header id="masthead" class="site-header" role="banner">
 				<div class="custom-header">
 					<div class="custom-header-media">
-						<div id="wp-custom-header" class="wp-custom-header"><img src="images/home--1.png" width="1020" height="598" alt="希望的航行者 &amp; 絕望的渡輪" srcset="images/home--1.png 1020w" sizes="100vw" /></div>	
+						<div id="wp-custom-header" class="wp-custom-header"><img src="images/home--1.png" class="home_pic" width="100%" height="auto" alt="希望的航行者 &amp; 絕望的渡輪" srcset="images/home--1.png 1020w" sizes="100vw" /></div>	
 					</div>
 				</div>
 				<?php
@@ -37,55 +37,22 @@
 				</a>
 				
 			</header>
-    <style type="text/css">
-		.return_index{
-			width: 120px;
-	    position: fixed;
-	    top: 5px;
-	    right: -80px;
-	    -o-transition:1s;
-		  -ms-transition:1s;
-		  -moz-transition:1s;
-		  -webkit-transition:1s;
-		  transition:1s;
-		  z-index: 0;
-		}
-		.return:hover > .return_index{
-			right: -10px;
-			-o-transition:1s;
-		  -ms-transition:1s;
-		  -moz-transition:1s;
-		  -webkit-transition:1s;
-		  transition:1s;
-		}
-		.return_say{
-			width: 100px;
-	    position: fixed;
-	    top: 10px;
-	    right: -100px;
-	    -o-transition:.8s;
-		  -ms-transition:.8s;
-		  -moz-transition:.8s;
-		  -webkit-transition:.8s;
-		  transition:.8s;
-		  z-index: 0;
-		  opacity: 0;
-		}
-		.return:hover > .return_say{
-			right: 110px;
-			-o-transition:.8s;
-		  -ms-transition:.8s;
-		  -moz-transition:.8s;
-		  -webkit-transition:.8s;
-		  transition:.8s;
-		  opacity: 1;
-		}
-    </style>
-			
+
 			<div class="site-content-contain">
+
+				<div class="cell_home">
+					<img src="images/home--1.png" width="100%">
+					<a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>">
+						<img src="images/monokitsune1.png" class="cell_monokitsune">
+						<img src="images/return_say.png" class="cell_say">
+					</a>
+				</div>
+
 				<div id="content" class="site-content">
 					<div id="index-container" class="container">
 						<div class="content">
+
+
 
 							<div class="row heading">
 								<div class="col-lg-12">
@@ -129,3 +96,77 @@
 
 	</body>
 </html>
+
+<style type="text/css">
+	.return_index{
+		width: 120px;
+    position: fixed;
+    top: 5px;
+    right: -80px;
+    -o-transition:1s;
+	  -ms-transition:1s;
+	  -moz-transition:1s;
+	  -webkit-transition:1s;
+	  transition:1s;
+	  z-index: 0;
+	}
+	.return:hover > .return_index{
+		right: -10px;
+		-o-transition:1s;
+	  -ms-transition:1s;
+	  -moz-transition:1s;
+	  -webkit-transition:1s;
+	  transition:1s;
+	}
+	.return_say{
+		width: 100px;
+    position: fixed;
+    top: 10px;
+    right: -100px;
+    -o-transition:.8s;
+	  -ms-transition:.8s;
+	  -moz-transition:.8s;
+	  -webkit-transition:.8s;
+	  transition:.8s;
+	  z-index: 0;
+	  opacity: 0;
+	}
+	.return:hover > .return_say{
+		right: 110px;
+		-o-transition:.8s;
+	  -ms-transition:.8s;
+	  -moz-transition:.8s;
+	  -webkit-transition:.8s;
+	  transition:.8s;
+	  opacity: 1;
+	}
+
+	.cell_home{
+		display: none;
+	}
+
+	@media only screen and (max-width: 1000px) {
+	  .custom-header{
+	  	display: none !important;
+	  }
+	  .cell_home{
+	  	display: block;
+			border-bottom: 35px #000 solid;
+		}
+		#index-container{
+		  background-image: url(../images/blood_phone.png) !important;
+		}
+		.cell_monokitsune{
+			width: 10%; 
+			position: fixed;
+			bottom: 40px;
+			right: 20px;
+		}
+		.cell_say{
+			width: 10%; 
+			position: fixed;
+			bottom: 130px;
+			right: 80px;
+		}
+	}
+</style>
