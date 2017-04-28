@@ -79,7 +79,7 @@
 		
 	}
 	.plurk_symbol{
-		width: 4%;
+		width: 48px;
 		margin: 0 auto 100px;
 		display: block; 
 	}

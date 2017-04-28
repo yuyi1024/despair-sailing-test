@@ -23,6 +23,11 @@
 		    	position: relative;
 				}
 			} 
+			@media only screen and (max-width: 1000px) {
+   			#container{
+				  height: 100vh;
+				}
+			}
 			.row{
 				margin-bottom: 100px;
 			}
@@ -80,3 +85,9 @@
 	</body>
 </html>
 
+
+<script type="text/javascript">
+	if ($('#container').height() < $(window).height()) {
+    document.getElementById('container').style.height = "100vh";
+	}
+</script>

@@ -78,4 +78,4 @@
 	</div><!-- .wrap -->
 </div><!-- .navigation-top -->
 
-<script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'skins/black/skin.css','volume':3,'autoplay':true,'shuffle':false,'repeat':1,'placement':'bottom','showplaylist':false,'playlist':[{'title':'DANGANRONPA','url':'https://despair-sailing.000webhostapp.com/plugins/soundy-background-music/music/OST1.mp3'}]}" ></script>
+<script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'skins/black/skin.css','volume':10,'autoplay':true,'shuffle':false,'repeat':1,'placement':'bottom','showplaylist':false,'playlist':[{'title':'DANGANRONPA','url':'https://despair-sailing.000webhostapp.com/plugins/soundy-background-music/music/OST1.mp3'}]}" ></script>

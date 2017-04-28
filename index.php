@@ -11,7 +11,7 @@
         Typed.new("#typed", {
             stringsElement: document.getElementById('typed-strings'),
             typeSpeed: 100,
-            backDelay: 700,
+            backDelay: 900,
             backSpeed: -20,
             loop: false,
             contentType: 'html', // or text
@@ -84,8 +84,8 @@
       var war_soundy_front_end = new war_SoundyFrontEnd(
       {
           pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
-          audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>     <source id="war_soundy_audio_player_source" src="plugins/soundy-background-music/music/index_bgm_.mp3" type="audio/mpeg">  </audio></div>',
-          audio_volume:               0.05,
+          audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>     <source id="war_soundy_audio_player_source" src="plugins/soundy-background-music/music/index_bgm_-1.mp3" type="audio/mpeg">  </audio></div>',
+          audio_volume:               0.3,
           preview:                    'false',
           button_url_play_normal:     'images/play-square-grey.png',
           button_url_pause_normal:    'images/pause-square-grey.png',
@@ -99,17 +99,17 @@
     <!--BGM-->
 
 </head>
-<body class="aa">
+<body>
   <div class="container">
     <div id="typed-strings">
         <p><strong style="color:red;">私立希望之峰學園，</strong>^100<br/>集合各領域的超一流高校生，^100<br/>以培育精英為目的，^100並獲得政府公認的超特權學校。^600<br/><br/>有人說，若能從這所學校畢業，^100<br/>人生幾乎等於是成功了。</p>
-        <p>. . . . . .</p>
+        
         <p>這天對我來說，不單純只是 365 天當中的一天，^200<br/><strong>私立希望之峰學園</strong>，^300<br/>我現在就站在這樣一所學校前面，^500<br/><span style="line-height: 70px; font-size: 35px;">「差不多該進去了吧 . . .」</span>^300<br/>這是嶄新的校園生活，^200充滿<strong style="color:red;">希望</strong>的第一步 . . .^600<br/>. . . . . . 應該是這樣才對。^500<br/>咦 . . . ^300奇怪 . . .^500<br/>我怎麼 . . . . . .^1200/&>?+*!@<img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
     </div>
     <span id="typed" style="white-space:pre;"></span>
 
   </div>     
-  <a class="btn" href="home.php">SKIP</a>
+  <a class="skip" href="home.php">SKIP</a>
 
   <div class="cover"></div>
 </body>
@@ -132,7 +132,7 @@ span, a{
   width: 15%;
   position: fixed;
 }
-.btn{
+.skip{
   position: absolute;
   bottom: 50px;
   left: 50%;
@@ -144,12 +144,17 @@ span, a{
   margin: 0 0 0 -30px;
   width: 60px;
   text-decoration: none;
+  letter-spacing:3px;
+  opacity: 0.5;
+}
+.skip:hover{
+  opacity: 1;
 }
 .a{
   width: 100%;
   height: 600px;
 }
-.aa{
+body{
   background: #000;
   background-image: url(plugins/typed-js-master/img/bg.png);
   background-size: 600px auto;
@@ -161,9 +166,12 @@ span{
   font-size: 30px;
   color: #fff;
 }
+#typed{
+  vertical-align: middle;
+}
 .container{
   width: 60%;
-  margin: 60px auto;
+  margin: 5% auto;
   display: block;
   text-align: center;
   line-height: 50px;
@@ -196,8 +204,7 @@ span{
     bottom: 150px;
     font-size: 30px;
   }
-  .aa{
-    background-image: url(plugins/typed-js-master/img/bg.png);
+  body{
     background-size: 700px auto;
     background-position: 50% 600%;
   }
@@ -206,4 +213,17 @@ span{
   }
 }
 
+@media only screen and (min-width: 1500px) {
+  .container{
+    margin: 220px auto;
+    line-height: 60px;
+  }
+  body{
+    background-size: 850px auto;
+    background-position: 50% 40%;
+  }
+  span{
+    font-size: 32px;
+  }
+}
 </style>

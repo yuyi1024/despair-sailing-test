@@ -35,7 +35,12 @@
 		    right: 50px;
 		    top: 60px;
 			}
-
+			@media only screen and (max-width: 1000px) {
+   			#container{
+				  height: 100vh;
+				}
+			}
+			
 		</style>
 
 
@@ -68,18 +73,7 @@
 							</div>
 						</div>
 
-						<!--空格-->
-						<div style="width:100%; height:700px;" class="long"></div>
-						<style type="text/css">
-							.long{
-								display:none;
-							}
-							@media only screen and (max-width: 1000px) {
-								.long{
-									display:block;
-								}
-							}
-						</style>
+						
 
 
 
@@ -89,3 +83,9 @@
 		
 	</body>
 </html>
+
+<script type="text/javascript">
+	if ($('#container').height() < $(window).height()) {
+    document.getElementById('container').style.height = "100vh";
+	}
+</script>

@@ -104,6 +104,7 @@ p, h1, h2, h3, h4, h5, h6, button{
   background-position:left top;
   position: absolute;
   top: 50px;
+  
 }
 @media only screen and (max-width: 1000px) {
   #container{
@@ -354,6 +355,7 @@ h2.title{
 .print{
   position: absolute;
   width:70%;
+  max-width: 500px;
   margin-left:20%;
   z-index: 0;
   opacity: 0; 
