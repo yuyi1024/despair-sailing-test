@@ -55,7 +55,7 @@
 							<h3><b>表單連結</b></h3>
 							<img src="images/title2.png" class="sub_title">
 							<div class="text">
-								<p>意願調查表單： <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYQ-rycyOKZ53mB5UBiHYHysAyfT2b9tqoJlTWIbbF746AMw/viewform">google form</a></p>	
+								<p>意願調查表單： <a href="https://goo.gl/rtyPLL">https://goo.gl/rtyPLL</a></p>	
 								<p>報名表單： 尚未開放</p>		
 								<p>主線案件報名表單： 尚未開放</p>	
 							</div>
@@ -71,6 +71,17 @@
 								<p>美術：黑白狐的<b>肉球</b></p>
 								<p>網站設計&架設：黑白狐的<b>肚臍</b></p>
 								<p>？？？：黑白狐的<b>腦垂腺</b></p>
+							</div>
+						</div>
+
+						<div class="about_sec1 animate-left">
+							<h3><b>素材出處</b></h3>
+							<img src="images/title2.png" class="sub_title">
+							<div class="text">
+								<p>希望之峰校徽： 彈丸論破原作遊戲</p>	
+								<p>噗浪背景： <a href="http://www.mafengwo.cn/i/3357442.html">海底圖</a></p>
+								<p>開頭動畫BGM： 彈丸論破原作遊戲 - Beautiful Days</p>
+								<p>網站BGM： 彈丸論破原作遊戲 - DANGANRONPA</p>	
 							</div>
 						</div>
 
