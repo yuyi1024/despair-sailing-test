@@ -75,7 +75,9 @@
 								<h3>近期更新</h3>
 								<img src="images/title.png" style="margin: -20px auto 30px;">
 								<div class="new_inner">
-								<p>2017.05.01.Mon. &nbsp;更新Q&A 1~5&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.03.Wed. &nbsp;更新Q&A 25&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.02.Tue. &nbsp;更新Q&A 18~24&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.01.Mon. &nbsp;更新Q&A 1~17&nbsp;<img src="images/new.gif"></p>
 								<p>2017.05.01.Mon. &nbsp;企劃宣傳開始！&nbsp;<img src="images/new.gif"></p>
 								
 								</div>

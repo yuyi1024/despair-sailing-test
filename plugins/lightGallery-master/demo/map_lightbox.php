@@ -129,7 +129,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 <script>
-$('.a').on('click', function() {
+$('.f1_a').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -171,7 +171,7 @@ $('.a').on('click', function() {
         }]
     })
 });
-$('.b').on('click', function() {
+$('.f1_b').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -197,7 +197,7 @@ $('.b').on('click', function() {
         }]
     })
 });
-$('.c').on('click', function() {
+$('.f1_c').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -215,7 +215,7 @@ $('.c').on('click', function() {
         }]
     })
 });
-$('.d').on('click', function() {
+$('.f1_d').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -229,7 +229,7 @@ $('.d').on('click', function() {
         }]
     })
 });
-$('.e').on('click', function() {
+$('.f1_e').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -255,7 +255,7 @@ $('.e').on('click', function() {
         }]
     })
 });
-$('.f').on('click', function() {
+$('.f1_f').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -265,7 +265,7 @@ $('.f').on('click', function() {
         }]
     })
 });
-$('.g').on('click', function() {
+$('.f1_g').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{

@@ -7,7 +7,7 @@
 			include('link.php');
 		?>
 		<link href="css/map_f1.css" rel="stylesheet">
-		<link href="css/map_f.css" rel="stylesheet">
+		<link href="css/map_f2.css" rel="stylesheet">
 	</head>
 	<body>
 
@@ -84,6 +84,59 @@
 
 								<div class="f1_h l"></div>
 								<div class="f1_i l"></div>
+							</div>
+
+
+							<!--f2-->
+
+							<div class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>2樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f2">
+								<img src="images/map/f2.png" style=" position:absolute;">
+
+								<div class="f2_a l">
+									<div class="f2_a_gray"><p>Lobby</p></div>
+									<div class="f2_a_black"><p><b>大廳</b></p></div>
+								</div>
+
+								<div class="f2_b l">
+									<div class="f2_b_gray"><p>Corridor & Restroom I</p></div>
+									<div class="f2_b_black"><p><b>走廊 & 洗手間 I</b></p></div>
+								</div>
+
+								<div class="f2_c l">
+									<div class="f2_c_gray"><p>Restaurant</p></div>
+									<div class="f2_c_black"><p><b>餐廳</b></p></div>
+								</div>
+
+								<div class="f2_d l">
+									<div class="f2_d_gray"><p>Store</p></div>
+									<div class="f2_d_black"><p><b>商店</b></p></div>
+								</div>
+
+								<div class="f2_e l">
+									<div class="f2_e_gray"><p>Kitchen</p></div>
+									<div class="f2_e_black"><p><b>廚房</b></p></div>
+								</div>
+
+								<div class="f2_f l">
+									<div class="f2_f_gray"></div>
+									<div class="f2_f_black"><p><b>垃圾<br/>處理間</b></p></div>
+								</div>
+
+								<div class="f2_g l">
+									<div class="f2_g_gray"><p>Fridges</p></div>
+									<div class="f2_g_black"><p><b>冷藏 & 冷凍</b></p></div>
+								</div>
+
+								<div class="f2_h l"></div>
 							</div>
 
 
