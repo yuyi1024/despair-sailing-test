@@ -36,26 +36,27 @@
 }
 .f2_a_black{
   background: linear-gradient(rgba(0,0,0,0.8) 50%, rgba(0,0,0,0) 50%);
-  top: -910px;
-  left: -730px;
+  top: -340px;
+  left: -840px;
 }
 .f2_a_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.8) 50%);
-  top: 380px;
-  left: 560px;
+  top: 660px;
+  left: 160px;
 }
 .f2_a:hover .f2_a_black,.f2_a:hover .f2_a_gray{
-  top: -260px;
-  left: -80px;
+  top: 160px;
+  left: -335px;
   -webkit-transition: 1s; /* Safari */
   transition: 1s;
 }
 .f2_a_black p{
-  margin-top: 550px;
-  font-size: 40px;
+  margin-top: 560px;
+  font-size: 32px;
 }
 .f2_a_gray p{
-  margin-top: 610px;
+  margin-top: 611px;
+  margin-left: 40px;
   font-size: 15px;
 }
 /*=============================*/
@@ -64,17 +65,17 @@
 }
 .f2_b_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: -370px;
-  left: -740px;
+  top: -120px;
+  left: -820px;
 }
 .f2_b_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 910px;
-  left: 540px;
+  top: 880px;
+  left: 180px;
 }
 .f2_b:hover .f2_b_black,.f2_b:hover .f2_b_gray{
-  top: 310px;
-  left: -60px;
+  top: 380px;
+  left: -320px;
   -webkit-transition: 1s; /* Safari */
   transition: 1s;
 }
@@ -92,26 +93,27 @@
 }
 .f2_c_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: 230px;
-  left: -660px;
+  top: -310px;
+  left: -300px;
 }
 .f2_c_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 1340px;
-  left: 450px;
+  top: 690px;
+  left: 700px;
 }
 .f2_c:hover .f2_c_black,.f2_c:hover .f2_c_gray{
-  top: 790px;
-  left: -100px;
+  top: 190px;
+  left: 200px;
   -webkit-transition: 1s; /* Safari */
   transition: 1s;
 }
 .f2_c_black p{
-  margin-top: 580px;
-  font-size: 40px;
+  margin-top: 590px;
+  font-size: 32px;
 }
 .f2_c_gray p{
-  margin-top: 642px;
+  margin-top: 641px;
+  margin-left: 20px;
   font-size: 15px;
 }
 /*=============================*/
@@ -120,26 +122,27 @@
 }
 .f2_d_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: 540px;
-  left: -400px;
+  top: -85px;
+  left: -310px;
 }
 .f2_d_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 1510px;
-  left: 570px;
+  top: 915px;
+  left: 690px;
 }
 .f2_d:hover .f2_d_black,.f2_d:hover .f2_d_gray{
-  top: 1010px;
-  left: 70px;
-  -webkit-transition: 1s; /* Safari */
-  transition: 1s;
+  top: 415px;
+  left: 190px;
+  -webkit-transition: .6s; /* Safari */
+  transition: .6s;
 }
 .f2_d_black p{
-  margin-top: 580px;
-  font-size: 40px;
+  margin-top: 570px;
+  font-size: 28px;
 }
 .f2_d_gray p{
-  margin-top: 642px;
+  margin-top: 611px;
+  margin-left: -15px;
   font-size: 15px;
 }
 /*=============================*/
@@ -148,23 +151,23 @@
 }
 .f2_e_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: 650px;
-  left: -640px;
+  top: -25px;
+  left: -310px;
 }
 .f2_e_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 1670px;
-  left: 380px;
+  top: 975px;
+  left: 690px;
 }
 .f2_e:hover .f2_e_black,.f2_e:hover .f2_e_gray{
-  top: 1170px;
-  left: -120px;
-  -webkit-transition: 1s; /* Safari */
-  transition: 1s;
+  top: 475px;
+  left: 190px;
+  -webkit-transition: .6s; /* Safari */
+  transition: .6s;
 }
 .f2_e_black p{
   margin-top: 580px;
-  font-size: 40px;
+  font-size: 15px;
 }
 .f2_e_gray p{
   margin-top: 642px;
@@ -172,27 +175,27 @@
 }
 /*=============================*/
 .f2_f{
-  -webkit-clip-path:polygon(180px 635px, 180px 1067px,284px 1067px,284px 2003px,436px 2003px,436px 1067px,540px 1067px,540px 635px);
+  -webkit-clip-path:polygon(180px 635px, 180px 1067px,540px 1067px,540px 635px);
 }
 .f2_f_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: 721px;
-  left: -757px;
+  top: -320px;
+  left: -625px;
 }
 .f2_f_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 1525px;
-  left: 47px;
+  top: 820px;
+  left: 515px;
 }
 .f2_f:hover .f2_f_black,.f2_f:hover .f2_f_gray{
-  top: 1125px;
-  left: -353px;
+  top: 250px;
+  left: -55px;
   -webkit-transition: 1s; /* Safari */
   transition: 1s;
 }
 .f2_f_black p{
   margin-top: 580px;
-  font-size: 15px;
+  font-size: 40px;
 }
 .f2_f_gray p{
   margin-top: 642px;
@@ -204,32 +207,87 @@
 }
 .f2_g_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
-  top: 730px;
-  left: -290px;
+  top: 300px;
+  left: -1060px;
 }
 .f2_g_gray{
   background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
-  top: 1630px;
-  left: 610px;
+  top: 1700px;
+  left: 340px;
 }
 .f2_g:hover .f2_g_black,.f2_g:hover .f2_g_gray{
-  top: 1180px;
-  left: 160px;
+  top: 1000px;
+  left: -360px;
   -webkit-transition: 1s; /* Safari */
   transition: 1s;
 }
 .f2_g_black p{
-  margin-top: 590px;
+  margin-top: 440px;
   font-size: 32px;
 }
 .f2_g_gray p{
-  margin-top: 641px;
+  margin-top: 492px;
   font-size: 15px;
 }
 /*=============================*/
 .f2_h{
   -webkit-clip-path:polygon(448px 1074px,675px 1074px,675px 1960px,448px 1960px);
-  
+}
+.f2_h_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 300px;
+  left: -660px;
+}
+.f2_h_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1700px;
+  left: 740px;
+}
+.f2_h:hover .f2_h_black,.f2_h:hover .f2_h_gray{
+  top: 1000px;
+  left: 40px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f2_h_black p{
+  margin-top: 440px;
+  font-size: 32px;
+}
+.f2_h_gray p{
+  margin-top: 492px;
+  font-size: 15px;
+}
+
+.f2_a:hover, .f2_b:hover, .f2_c:hover, .f2_d:hover, .f2_e:hover, .f2_f:hover, .f2_g:hover, .f2_h:hover{
+  background:rgba(0,0,0,0.5);
+}
+/*=============================*/
+.f2_i{
+ -webkit-clip-path:polygon(284px 1067px,284px 2003px,436px 2003px,436px 1067px);
+}
+.f2_i_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 300px;
+  left: -860px;
+}
+.f2_i_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1700px;
+  left: 540px;
+}
+.f2_i:hover .f2_i_black,.f2_i:hover .f2_i_gray{
+  top: 1000px;
+  left: -160px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f2_i_black p{
+  margin-top: 440px;
+  font-size: 32px;
+}
+.f2_i_gray p{
+  margin-top: 492px;
+  font-size: 15px;
 }
 
 .f2_a:hover, .f2_b:hover, .f2_c:hover, .f2_d:hover, .f2_e:hover, .f2_f:hover, .f2_g:hover, .f2_h:hover{
