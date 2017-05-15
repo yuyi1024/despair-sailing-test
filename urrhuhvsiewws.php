@@ -8,6 +8,9 @@
 		?>
 		<link href="css/map_f1.css" rel="stylesheet">
 		<link href="css/map_f2.css" rel="stylesheet">
+		<link href="css/map_b1.css" rel="stylesheet">
+
+		<link rel="stylesheet" href="css/snip_button.css">
 	</head>
 	<body>
 
@@ -35,7 +38,7 @@
 						<h2 class="title">地圖</h2>
 						<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
 						
-							<div class="instuction_title" style="margin-bottom:10px;">
+							<div id="f1" class="instuction_title" style="margin-bottom:10px;">
 								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
@@ -89,7 +92,7 @@
 
 							<!--f2-->
 
-							<div class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+							<div id="f2" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
 								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
@@ -99,7 +102,7 @@
 							</div>
 
 							<div class="f2">
-								<img src="images/map/f2.png" style=" position:absolute;">
+								<img src="images/map/unknown/f2.png" style=" position:absolute;">
 
 								<div class="f2_a l">
 									<div class="f2_a_gray"><p>Utility Room</p></div>
@@ -147,6 +150,63 @@
 								</div>
 							</div>
 
+
+							<!--b1-->
+
+							<div id="b1" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>地下室</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="b1">
+								<img src="images/map/unknown/b1.png" style=" position:absolute;">
+
+								<div class="b1_a l">
+									<div class="b1_a_gray"><p>Class Trial</p></div>
+									<div class="b1_a_black"><p>學級裁判所<b></b></p></div>
+								</div>
+
+								<div class="b1_b l">
+									<div class="b1_b_gray"><p>Garbage Collection</p></div>
+									<div class="b1_b_black"><p><b>垃圾集中處</b></p></div>
+								</div>
+
+								<div class="b1_c l">
+									<div class="b1_c_gray"><p>Electricity Distribution</p></div>
+									<div class="b1_c_black"><p><b>配電室</b></p></div>
+								</div>
+
+								<div class="b1_d l">
+									<div class="b1_d_gray"><p>Laboratory</p></div>
+									<div class="b1_d_black"><p><b>實驗室</b></p></div>
+								</div>
+
+								<div class="b1_e l">
+									<div class="b1_e_gray"><p>Laboratory</p></div>
+									<div class="b1_e_black"><p><b>實驗室</b></p></div>
+								</div>
+
+								<div class="b1_f l">
+									<div class="b1_f_gray"><p>Morgue</p></div>
+									<div class="b1_f_black"><p><b>停屍間</b></p></div>
+								</div>
+
+								<div class="b1_g l">
+									<div class="b1_g_gray"><p>Corridor</p></div>
+									<div class="b1_g_black"><p><b>走廊</b></p></div>
+								</div>
+
+								<div class="b1_h l">
+									<div class="b1_h_gray"><p></p></div>
+									<div class="b1_h_black"><p><b></b></p></div>
+								</div>
+					
+							</div>
+
 						
 					<?php
 						include('plugins/lightGallery-master/demo/map_lightbox.php');
@@ -155,6 +215,26 @@
 					</div>
 				</div>		
 			</div>
+
+			<div class="snip">
+		  <figure class="snip1566">
+		    <img src="images/number1.png" alt="sq-sample14" />
+		    <figcaption><img src="images/number1_h.png"></figcaption>
+		    <a href="urrhuhvsiewws.php#f1"></a>
+		  </figure>
+
+		  <figure class="snip1566">
+		    <img src="images/number2.png" />
+		    <figcaption><img src="images/number2_h.png"></figcaption>
+		    <a href="urrhuhvsiewws.php#f2"></a>
+		  </figure>
+
+		  <figure class="snip1566">
+		    <img src="images/number3.png" />
+		    <figcaption><img src="images/number3_h.png"></figcaption>
+		    <a href="urrhuhvsiewws.php#b1"></a>
+		  </figure>
+		</div>
 		
 	</body>
 </html>

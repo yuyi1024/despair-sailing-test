@@ -1,0 +1,32 @@
+.b1{
+  width:720px; 
+  height:2050px;
+  margin: 0 auto; 
+  display:block;
+}
+.b1 .l{
+  width:700px;
+  height:2050px;
+  position: absolute;
+  overflow: hidden;
+}
+.l:hover{
+  cursor: pointer;
+}
+.l div{
+  width:1000px;
+  height:1000px;
+  position: absolute;
+  background-size: 100% 30px;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg); /* Internet Explorer */
+  -moz-transform:rotate(45deg); /* Firefox */
+  -webkit-transform:rotate(45deg); /* Safari 和 Chrome */
+  -o-transform:rotate(45deg); /* Opera */
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.l p{
+  text-align: center;
+  color: #fff;
+}

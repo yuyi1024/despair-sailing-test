@@ -1,10 +1,10 @@
-.f2, .f2{
+.f2{
   width:720px; 
   height:2050px;
   margin: 0 auto; 
   display:block;
 }
-.f2 .l, .f2 .l{
+.f2 .l{
   width:700px;
   height:2050px;
   position: absolute;
@@ -231,7 +231,7 @@
 }
 /*=============================*/
 .f2_h{
-  -webkit-clip-path:polygon(448px 1074px,675px 1074px,675px 1960px,448px 1960px);
+  -webkit-clip-path:polygon(448px 1074px,675px 1074px,675px 1964px,448px 1964px);
 }
 .f2_h_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
