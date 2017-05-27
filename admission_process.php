@@ -44,7 +44,7 @@
 										<h4 class="subheading">填寫調查表單</h4>
 									</div>
 									<div class="timeline-body animate-left">
-										<p>　　詳讀<a href="description.php">【企劃詳細說明】</a>與<a href="rules.php">【報名規則】</a>，在確認沒問題後，填寫<a href="https://docs.google.com/forms/d/e/1FAIpQLSdYQ-rycyOKZ53mB5UBiHYHysAyfT2b9tqoJlTWIbbF746AMw/viewform">意願調查表單</a>。</p>
+										<p>　　詳讀<a href="description.php">【企劃詳細說明】</a>與<a href="rules.php">【報名規則】</a>，在確認沒問題後，填寫<a href="">意願調查表單(已結束)</a>。</p>
 										<p>　　※注意：此為參考用調查表單，非正式報名且不具任何效力。正式報名時的設定可與此表單的填寫內容不同。</p>
 										<p style="text-decoration:line-through;">　　若填單人數於5/25前不滿低標*，將視情況延期或不舉辦。</p>
 										<p style="text-decoration:line-through;">　　低標*：單一性別未滿6人，或總人數不滿16人。</p>

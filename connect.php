@@ -55,8 +55,8 @@
 							<h3><b>表單連結</b></h3>
 							<img src="images/title2.png" class="sub_title">
 							<div class="text">
-								<p>意願調查表單： <a href="https://goo.gl/rtyPLL">https://goo.gl/rtyPLL</a></p>	
-								<p>意願調查回覆： <a href="https://goo.gl/dzhCXO">https://goo.gl/dzhCXO</a></p>	
+								<!--<p>意願調查表單： <a href="https://goo.gl/rtyPLL">https://goo.gl/rtyPLL</a></p>-->	
+								<p>意願調查結果： <a href="https://goo.gl/dzhCXO">https://goo.gl/dzhCXO</a></p>	
 								<p>報名表單： 尚未開放</p>		
 								<p>主線案件報名表單： 尚未開放</p>	
 							</div>

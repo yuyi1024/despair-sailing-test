@@ -46,9 +46,9 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q2. <img src="images/new.gif"></p>
+									<p class="Question">Q3. <img src="images/new.gif"></p>
 									<div class="Answer">
-										<p>A2.</p>
+										<p>A3.</p>
 									</div>
 								</div>
 							</div>
@@ -58,7 +58,63 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q28.請問學生證上的年齡是指入學時的年齡，還是會像一代劇情那樣? <img src="images/new.gif"></p>
+									<p class="Question">Q33.設定的很詳細，也很讓人想要參加！請繼續加油，我要先去試著產人設了xx <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A33.謝謝你的鼓勵與稱讚，報名時間為6/1~7/13，祝生產順利(｡･ ω<)ゞ</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q32.請問立繪可以用Q版嗎？還是要全身圖? <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A32.立繪請使用全身圖，不接受Q版。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q31.請問官方會有像彈丸2愛島那樣 蒐集好感度之類的部分嗎？ <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A31.本企劃沒有蒐集好感度的系統，但若同學想要彼此贈送內褲官方也不會加以制止。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q30.請問出現在人面前不露臉(戴帽子或類似遮臉)，立繪也是不露臉，但學生檔案是露臉的，
+這樣是可行的嗎? <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A30.可以，立繪只要求側面或半側面即可，姿勢及服裝造型可自由發揮。學生檔案照片同為側面或半側面，不要遮住超過1/3的臉，眼睛至少露出一隻即可。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q29.目前關注的有101人可是只有16人可參與, 請問6/1若參與人數過多會開放分組進行嗎？例如不同遊輪不同班級之類的, 當然這樣企畫主會很累所以只是個想法煩請不用在意 <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A29.由於官方人力有限，無法分散人力去管理更多的學生，且分組也會使企劃太過混亂，因此不會開放分組，也不會增加名額。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q28.請問學生證上的年齡是指入學時的年齡，還是會像一代劇情那樣?</p>
 									<div class="Answer">
 										<p>A28.電子學生手冊請填寫入學時的年齡。</p>
 									</div>

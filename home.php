@@ -75,14 +75,20 @@
 								<h3>近期更新</h3>
 								<img src="images/title.png" style="margin: -20px auto 30px;">
 								<div class="new_inner">
-								<p>2017.05.16.Mon. &nbsp;更新Q&A 28&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.27.Sat. &nbsp;更新Q&A 33&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.26.Fri. &nbsp;意願調查表單關閉&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.26.Fri. &nbsp;更新Q&A 32&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.23.Tue. &nbsp;更新Q&A 29~31&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.23.Tue. &nbsp;更新詳細說明部分資訊&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.23.Tue. &nbsp;更新報名規則部分資訊&nbsp;<img src="images/new.gif"></p>
+								<p>2017.05.16.Mon. &nbsp;更新Q&A 28&nbsp;</p>
 								<p>2017.05.08.Mon. &nbsp;更新Q&A 27&nbsp;</p>
 								<p>2017.05.06.Sat. &nbsp;更新Q&A 26&nbsp;</p>
 								<p>2017.05.04.Thu. &nbsp;更新報名規則部分資訊&nbsp;</p>
-								<p>2017.05.03.Wed. &nbsp;更新Q&A 25&nbsp;</p>
+								<!--<p>2017.05.03.Wed. &nbsp;更新Q&A 25&nbsp;</p>
 								<p>2017.05.02.Tue. &nbsp;更新Q&A 18~24&nbsp;</p>
 								<p>2017.05.01.Mon. &nbsp;更新Q&A 1~17&nbsp;</p>
-								<p>2017.05.01.Mon. &nbsp;企劃宣傳開始！&nbsp;</p>
+								<p>2017.05.01.Mon. &nbsp;企劃宣傳開始！&nbsp;</p>-->
 								
 								</div>
 							</div>
