@@ -131,12 +131,12 @@ $('#student1').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/立花 綾/立花 綾-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/立花 綾/立花 綾-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/立花 綾/立花 綾-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/立花 綾/立花 綾-IDcard2.png'
         }]
     })
 });
@@ -144,12 +144,12 @@ $('#student2').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/相宮 春久/相宮 春久-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/相宮 春久/相宮 春久-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/相宮 春久/相宮 春久-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/相宮 春久/相宮 春久-IDcard2.png'
         }]
     })
 });
@@ -157,12 +157,12 @@ $('#student3').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音-IDcard2.png'
         }]
     })
 });
@@ -170,12 +170,12 @@ $('#student4').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里-IDcard2.png'
         }]
     })
 });
@@ -183,12 +183,12 @@ $('#student5').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮-IDcard1.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮-IDcard2.jpg'
         }]
     })
 });
@@ -196,12 +196,12 @@ $('#student6').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/俞墨辰/俞墨辰-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/俞墨辰/俞墨辰-IDcard1.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/俞墨辰/俞墨辰-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/俞墨辰/俞墨辰-IDcard2.jpg'
         }]
     })
 });
@@ -209,25 +209,25 @@ $('#student7').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留-IDcard2.png'
         }]
     })
 });
 $('#student8').on('click', function() {
     $(this).lightGallery({
-        dynamic: true,
+        dynamic: true, 
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/橘屋 冬狐/橘屋 冬狐-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/橘屋 冬狐/橘屋 冬狐-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/橘屋 冬狐/橘屋 冬狐-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/橘屋 冬狐/橘屋 冬狐-IDcard2.png'
         }]
     })
 });
@@ -235,12 +235,12 @@ $('#student9').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜-IDcard2.png'
         }]
     })
 });
@@ -248,12 +248,12 @@ $('#student10').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard1.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard2.jpg'
         }]
     })
 });
@@ -261,12 +261,12 @@ $('#student11').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/系屋 拓麻/系屋 拓麻-IDcard1-改.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/系屋 拓麻/系屋 拓麻-IDcard1-改.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/系屋 拓麻/系屋 拓麻-IDcard2-改.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/系屋 拓麻/系屋 拓麻-IDcard2-改.jpg'
         }]
     })
 });
@@ -274,12 +274,12 @@ $('#student12').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/七五三木 桃/七五三木 桃-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/七五三木 桃/七五三木 桃-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/七五三木 桃/七五三木 桃-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/七五三木 桃/七五三木 桃-IDcard2.png'
         }]
     })
 });
@@ -287,12 +287,12 @@ $('#student13').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/伊地知 覚/伊地知 覚-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/伊地知 覚/伊地知 覚-IDcard1.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/伊地知 覚/伊地知 覚-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/伊地知 覚/伊地知 覚-IDcard2.jpg'
         }]
     })
 });
@@ -300,12 +300,12 @@ $('#student14').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲-IDcard2.png'
         }]
     })
 });
@@ -313,12 +313,12 @@ $('#student15').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/勘解由小路 露央紗/勘解由小路 露央紗-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/勘解由小路 露央紗/勘解由小路 露央紗-IDcard1.png'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/勘解由小路 露央紗/勘解由小路 露央紗-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/勘解由小路 露央紗/勘解由小路 露央紗-IDcard2.png'
         }]
     })
 });
@@ -326,15 +326,136 @@ $('#student16').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file1.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file1.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/大久保 小夜子/大久保 小夜子-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/大久保 小夜子/大久保 小夜子-IDcard1.jpg'
         },
         {
-            "src": 'plugins/lightGallery-master/demo/img/student_file2.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file2.png'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/大久保 小夜子/大久保 小夜子-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/大久保 小夜子/大久保 小夜子-IDcard2.jpg'
         }]
     })
 });
+$('#student17').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐久間 誠/佐久間 誠-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐久間 誠/佐久間 誠-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐久間 誠/佐久間 誠-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐久間 誠/佐久間 誠-IDcard2.jpg'
+        }]
+    })
+});
+$('#student18').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/平丸 早由美/平丸 早由美-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/平丸 早由美/平丸 早由美-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/平丸 早由美/平丸 早由美-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/平丸 早由美/平丸 早由美-IDcard2.jpg'
+        }]
+    })
+});
+$('#student19').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/九十九 累/九十九 累-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/九十九 累/九十九 累-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/九十九 累/九十九 累-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/九十九 累/九十九 累-IDcard2.png'
+        }]
+    })
+});
+$('#student20').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/熊吉 庫瑪/熊吉 庫瑪-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/熊吉 庫瑪/熊吉 庫瑪-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/熊吉 庫瑪/熊吉 庫瑪-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/熊吉 庫瑪/熊吉 庫瑪-IDcard2.png'
+        }]
+    })
+});
+$('#student21').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/泉 綾/泉 綾-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/泉 綾/泉 綾-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/泉 綾/泉 綾-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/泉 綾/泉 綾-IDcard2.png'
+        }]
+    })
+});
+$('#student22').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/高田 夏野/高田 夏野-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/高田 夏野/高田 夏野-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/高田 夏野/高田 夏野-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/高田 夏野/高田 夏野-IDcard2.png'
+        }]
+    })
+});
+$('#student23').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太-IDcard2.png'
+        }]
+    })
+});
+
+
+$('#student_out_1').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/八森 數馬/八森 數馬-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/八森 數馬/八森 數馬-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/八森 數馬/八森 數馬-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/八森 數馬/八森 數馬-IDcard2.png'
+        }]
+    })
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </script>

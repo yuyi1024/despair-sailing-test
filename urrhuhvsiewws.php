@@ -130,8 +130,8 @@
 								</div>
 
 								<div class="f2_f l">
-									<div class="f2_f_gray"><p>Communication</p></div>
-									<div class="f2_f_black"><p><b>交流區</b></p></div>
+									<div class="f2_f_gray"><p>Public Space</p></div>
+									<div class="f2_f_black"><p><b>公共區</b></p></div>
 								</div>
 
 								<div class="f2_g l">
@@ -167,7 +167,7 @@
 
 								<div class="b1_a l">
 									<div class="b1_a_gray"><p>Class Trial</p></div>
-									<div class="b1_a_black"><p>學級裁判所<b></b></p></div>
+									<div class="b1_a_black"><p><b>學級裁判場</b></p></div>
 								</div>
 
 								<div class="b1_b l">
@@ -175,7 +175,7 @@
 									<div class="b1_b_black"><p><b>垃圾集中處</b></p></div>
 								</div>
 
-								<div class="b1_c l">
+								<!--<div class="b1_c l">
 									<div class="b1_c_gray"><p>Electricity Distribution</p></div>
 									<div class="b1_c_black"><p><b>配電室</b></p></div>
 								</div>
@@ -193,20 +193,63 @@
 								<div class="b1_f l">
 									<div class="b1_f_gray"><p>Morgue</p></div>
 									<div class="b1_f_black"><p><b>停屍間</b></p></div>
-								</div>
+								</div>-->
 
 								<div class="b1_g l">
 									<div class="b1_g_gray"><p>Corridor</p></div>
 									<div class="b1_g_black"><p><b>走廊</b></p></div>
 								</div>
 
-								<div class="b1_h l">
-									<div class="b1_h_gray"><p></p></div>
-									<div class="b1_h_black"><p><b></b></p></div>
-								</div>
-					
 							</div>
 
+
+							<!--f5-->
+
+							<div id="f5" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>五樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f5">
+								<img src="images/map/unknown/f5.png" style=" position:absolute;">
+
+								<div class="f5_a l">
+									<div class="f5_a_gray"><p></p></div>
+									<div class="f5_a_black"><p><b></b></p></div>
+								</div>
+
+								<div class="f5_b l">
+									<div class="f5_b_gray"><p></p></div>
+									<div class="f5_b_black"><p><b></b></p></div>
+								</div>
+
+								<!--<div class="f5_c l">
+									<div class="f5_c_gray"><p>Electricity Distribution</p></div>
+									<div class="f5_c_black"><p><b>配電室</b></p></div>
+								</div>
+
+								<div class="f5_d l">
+									<div class="f5_d_gray"><p>Laboratory</p></div>
+									<div class="f5_d_black"><p><b>實驗室</b></p></div>
+								</div>
+
+								<div class="f5_e l">
+									<div class="f5_e_gray"><p>Laboratory</p></div>
+									<div class="f5_e_black"><p><b>實驗室</b></p></div>
+								</div>
+
+								<div class="f5_f l">
+									<div class="f5_f_gray"><p>Morgue</p></div>
+									<div class="f5_f_black"><p><b>停屍間</b></p></div>
+								</div>-->
+
+								
+
+							</div>
 						
 					<?php
 						include('plugins/lightGallery-master/demo/map_lightbox.php');

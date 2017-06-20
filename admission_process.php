@@ -44,7 +44,7 @@
 										<h4 class="subheading">填寫調查表單</h4>
 									</div>
 									<div class="timeline-body animate-left">
-										<p>　　詳讀<a href="description.php">【企劃詳細說明】</a>與<a href="rules.php">【報名規則】</a>，在確認沒問題後，填寫<a href="">意願調查表單(已結束)</a>。</p>
+										<p>　　詳讀<a href="description.php">【企劃詳細說明】</a>與<a href="rules.php">【報名規則】</a>，在確認沒問題後，填寫<a href="https://goo.gl/dzhCXO">意願調查表單(已結束)</a>。</p>
 										<p>　　※注意：此為參考用調查表單，非正式報名且不具任何效力。正式報名時的設定可與此表單的填寫內容不同。</p>
 										<p style="text-decoration:line-through;">　　若填單人數於5/25前不滿低標*，將視情況延期或不舉辦。</p>
 										<p style="text-decoration:line-through;">　　低標*：單一性別未滿6人，或總人數不滿16人。</p>
@@ -66,7 +66,7 @@
 										<p>　　<a href="download.php">【下載素材】</a>並設計角色，設定上若有任何問題都能透過Q&A或噗浪詢問。</p>
 										<p>正式報名時需繳交的附件如下：</p>
 										<ul>
-											<li>電子學生手冊1、2</li>
+											<li>學生檔案1、2</li>
 											<li>角色立繪（單純報名場外者不需繳交）</li>
 										</ul>
 									</div>
@@ -83,7 +83,7 @@
 										<h4 class="subheading">報名開始</h4>
 									</div>
 									<div class="timeline-body animate-left">
-										<p>　　於報名期間內，填寫<a>報名表單</a>後，並以【本噗】私噗<a href="https://www.plurk.com/monokitsune2017">【校長】</a>繳交附件資料。</p>
+										<p>　　於報名期間內，填寫<a href="https://goo.gl/cJR2Mc">報名表單</a>後，並以【本噗】私噗<a href="https://www.plurk.com/monokitsune2017">【校長】</a>繳交附件資料。</p>
 										<p>　　若角色設定上有問題，官方在與該報名者討論過後可能要求其進行修改。</p>
 										<p>　　在報名時間結束以前，皆可進行角色設定的修改。若皆無問題，則等待報名時間結束後抽籤。</p>
 										<p>　　07/05 - 07/11官方網站更新及噗浪回覆為一天一次，建議有任何問題在此之前詢問。</p>

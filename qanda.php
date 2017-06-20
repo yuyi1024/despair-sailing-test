@@ -23,11 +23,6 @@
 		    	position: relative;
 				}
 			} 
-			@media only screen and (max-width: 1000px) {
-   			#container{
-				  height: 100vh;
-				}
-			}
 		</style>
 
 
@@ -46,9 +41,9 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q3. <img src="images/new.gif"></p>
+									<p class="Question">Q4. <img src="images/new.gif"></p>
 									<div class="Answer">
-										<p>A3.</p>
+										<p>A4.</p>
 									</div>
 								</div>
 							</div>
@@ -58,7 +53,150 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q33.設定的很詳細，也很讓人想要參加！請繼續加油，我要先去試著產人設了xx <img src="images/new.gif"></p>
+									<p class="Question">Q46.若沒抽到場內籤一定要跳場外嗎? 可以退出企劃嗎? <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A46.沒抽到場內的同學官方將直接預設為場外，若是不想參加可以直接退出，官方不會加以制止。<br/>官網的角色資料可以在私下與官方聯繫後協助刪除。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q45.請問官方會把立繪一起放在學生檔案嗎？？ <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A45.立繪在報名期間不會收入學生檔案中。待抽籤完畢，場外同學的立繪將直接加入檔案中，場內同學則是在日後使用到時才公開，但同學若想自行公開立繪，官方也不會加以阻止。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q44.您好，請問此企劃中有由官方擔任「黑幕」之角色嗎？ <img src="images/new.gif"></p>
+									<div class="Answer">
+										<p>A44.這部分因涉及劇情不方便在此多加說明，若成功入學，再請隨著劇情推理出答案。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q43.官方一定會讓學生都能找到兇手嗎? 那代表一章一個死者+一個兇手被處刑對嗎? 處刑會有動畫或CG嗎? </p>
+									<div class="Answer">
+										<p>A43.<br/>1.是的，為了劇情發展官方會讓學生們找得出兇手，但會盡量讓學生們能夠自行推論出兇手的身份，若過程有卡住的情況則會給予些許提示但不會直接公佈。<br/>2.因應劇情設計不一定為一章一個兇手+死者。<br/>3.處刑的創作可以是任何形式，由兇手自行設計，官方並未對此作出限制。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q42.請問現在已經報名成功的人當中有謊報者嗎? </p>
+									<div class="Answer">
+										<p>A42.關於是否有謊報者，待場內抽籤完畢才會公佈。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q41.請問在學生檔案已經有出現過的超高校級的才能可以重複投稿嗎？</p>
+									<div class="Answer">
+										<p>A41.可以，但若是場內的報名者中有重複的才能，則必須抽籤。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q40.請問角色能夠因為才能上的相關而攜帶大型或小型武器嗎?例如拆解式的槍械或者是刀刃之類的。<br/>還是說能夠攜帶但是會是【沒有適合的子彈OR未開鋒】的狀態?感謝官方的回覆!</p>
+									<div class="Answer">
+										<p>A40.關於大型與小型武器是否可以攜帶，請實際與官方討論過後才能決定。拆解式槍械及刀刃皆可攜帶，但槍械為【沒有適合的子彈】狀態，刀刃則【可開鋒】。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q39.請問官方接受男扮女裝或是女扮男裝的設定嗎？如果接受的話請問在介紹要填上要填上哪一種性別？</p>
+									<div class="Answer">
+										<p>A39.可以，但是在學生檔案及報名表單中請填寫真實性別。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q38.那個學生手冊只是要填寫關於才能的東西而已嗎？不能把角色一些簡介的個性也填上去嗎><？</p>
+									<div class="Answer">
+										<p>A38.學生檔案簡介的部份可填寫任何角色設定。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q37.請問開始報名後能看見報名的回覆表單嗎？如果資料有誤比較快能知道要修改</p>
+									<div class="Answer">
+										<p>A37.報名的回覆表單並不會公開，請同學自行將填寫的資料做備份，若設定需修改，可重複填寫表單，官方將以該角色最後一次填寫的設定為主。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q36.立繪是否只能用電繪呢?假如是手繪然後後製上去呢?</p>
+									<div class="Answer">
+										<p>A36.可以使用手繪，但圖要清晰且需上色、去背。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q35.立繪有規定長寬至少要多少嗎?</p>
+									<div class="Answer">
+										<p>A35.立繪長度請至少大於800px且圖要清晰。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q34.您好、請問在報名時可以投兩位角色嗎？同照報名方式但投兩名一同參加名額抽選這樣，感謝也期待您的答覆！</p>
+									<div class="Answer">
+										<p>A34.一位玩家只限投一位角色。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q33.設定的很詳細，也很讓人想要參加！請繼續加油，我要先去試著產人設了xx </p>
 									<div class="Answer">
 										<p>A33.謝謝你的鼓勵與稱讚，報名時間為6/1~7/13，祝生產順利(｡･ ω<)ゞ</p>
 									</div>
@@ -69,7 +207,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q32.請問立繪可以用Q版嗎？還是要全身圖? <img src="images/new.gif"></p>
+									<p class="Question">Q32.請問立繪可以用Q版嗎？還是要全身圖?</p>
 									<div class="Answer">
 										<p>A32.立繪請使用全身圖，不接受Q版。</p>
 									</div>
@@ -80,7 +218,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q31.請問官方會有像彈丸2愛島那樣 蒐集好感度之類的部分嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q31.請問官方會有像彈丸2愛島那樣 蒐集好感度之類的部分嗎？</p>
 									<div class="Answer">
 										<p>A31.本企劃沒有蒐集好感度的系統，但若同學想要彼此贈送內褲官方也不會加以制止。</p>
 									</div>
@@ -92,9 +230,9 @@
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
 									<p class="Question">Q30.請問出現在人面前不露臉(戴帽子或類似遮臉)，立繪也是不露臉，但學生檔案是露臉的，
-這樣是可行的嗎? <img src="images/new.gif"></p>
+這樣是可行的嗎?</p>
 									<div class="Answer">
-										<p>A30.可以，立繪只要求側面或半側面即可，姿勢及服裝造型可自由發揮。學生檔案照片同為側面或半側面，不要遮住超過1/3的臉，眼睛至少露出一隻即可。</p>
+										<p>A30.可以，立繪只要求正面或半側面即可，姿勢及服裝造型可自由發揮。學生檔案照片同為正面或半側面，不要遮住超過1/3的臉，眼睛至少露出一隻即可。</p>
 									</div>
 								</div>
 							</div>
@@ -103,7 +241,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q29.目前關注的有101人可是只有16人可參與, 請問6/1若參與人數過多會開放分組進行嗎？例如不同遊輪不同班級之類的, 當然這樣企畫主會很累所以只是個想法煩請不用在意 <img src="images/new.gif"></p>
+									<p class="Question">Q29.目前關注的有101人可是只有16人可參與, 請問6/1若參與人數過多會開放分組進行嗎？例如不同遊輪不同班級之類的, 當然這樣企畫主會很累所以只是個想法煩請不用在意</p>
 									<div class="Answer">
 										<p>A29.由於官方人力有限，無法分散人力去管理更多的學生，且分組也會使企劃太過混亂，因此不會開放分組，也不會增加名額。</p>
 									</div>

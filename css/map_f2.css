@@ -35,12 +35,12 @@
   -webkit-clip-path:polygon(45px 617px, 161px 617px,161px 846px,45px 846px);
 }
 .f2_a_black{
-  background: linear-gradient(rgba(0,0,0,0.8) 50%, rgba(0,0,0,0) 50%);
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
   top: -340px;
   left: -840px;
 }
 .f2_a_gray{
-  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.8) 50%);
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
   top: 660px;
   left: 160px;
 }

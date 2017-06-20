@@ -43,7 +43,7 @@
 						<a href="#">Handbook ▼</a>
 						<img src="images/eye.png" class="eye">
 						<ul class="sub-menu">
-							<li><a href="student_file.php"><img src="images/arr.png" class="arr"> 學生資料</a></li>
+							<li><a href="student_file.php"><img src="images/arr.png" class="arr"> 學生檔案</a></li>
 							<li><a href="npc.php"><img src="images/arr.png" class="arr"> NPC</a></li>
 							<li><a href="map.php"><img src="images/arr.png" class="arr"> 地圖</a></li>
 							<li><a href="regulations.php"><img src="images/arr.png" class="arr"> 校規</a></li>

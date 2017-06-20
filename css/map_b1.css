@@ -30,3 +30,108 @@
   text-align: center;
   color: #fff;
 }
+
+/*=============================*/
+.b1_a{
+  -webkit-clip-path:polygon(224px 45px, 495px 45px,671px 224px,671px 452px,495px 628px,224px 628px,49px 452px,49px 224px);
+}
+.b1_a_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -1030px;
+  left: -920px;
+}
+.b1_a_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 570px;
+  left: 680px;
+}
+.b1_a:hover .b1_a_black,.b1_a:hover .b1_a_gray{
+  top: -230px;
+  left: -120px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.b1_a_black p{
+  margin-top: 520px;
+  margin-left: 70px;
+  font-size: 40px;
+}
+.b1_a_gray p{
+  margin-top: 582px;
+  margin-left: 80px;
+  font-size: 15px;
+}
+/*=============================*/
+.b1_b{
+  -webkit-clip-path:polygon(49px 656px, 671px 656px,671px 1084px,520px 1084px,520px 905px,49px 905px);
+}
+.b1_b_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -530px;
+  left: -900px;
+}
+.b1_b_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1070px;
+  left: 700px;
+}
+.b1_b:hover .b1_b_black,.b1_b:hover .b1_b_gray{
+  top: 270px;
+  left: -100px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.b1_b_black p{
+  margin-top: 490px;
+  margin-left: -50px;
+  font-size: 40px;
+}
+.b1_b_gray p{
+  margin-top: 551px;
+  margin-left: -53px;
+  font-size: 15px;
+}
+/*=============================*/
+.b1_g{
+  -webkit-clip-path:polygon(208px 910px, 520px 910px,518px 1767px,301px 1767px,301px 1407px,208px 1407px,213px 1119px,213px 1119px);
+}
+.b1_g_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -200px;
+  left: -1100px;
+}
+.b1_g_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1800px;
+  left: 900px;
+}
+.b1_g:hover .b1_g_black,.b1_g:hover .b1_g_gray{
+  top: 800px;
+  left: -100px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.b1_g_black p{
+  margin-top: 402px;
+  margin-left: -230px;
+  font-size: 40px;
+}
+.b1_g_gray p{
+  margin-top: 462px;
+  margin-left: -230px;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.b1_a:hover, .b1_b:hover,{
+  background:rgba(0,0,0,0.5);
+}
