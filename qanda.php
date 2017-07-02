@@ -53,7 +53,18 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q46.若沒抽到場內籤一定要跳場外嗎? 可以退出企劃嗎? <img src="images/new.gif"></p>
+									<p class="Question">Q47.如果沒辦法私噗校長您，而且有沒辦法用FB、Line私給您，要怎麼辦呢？ </p>
+									<div class="Answer">
+										<p>A47.若無法私噗官方進行報名，請使用信箱告知無法私噗的原因，以及是否能使用FB聯絡。<br/>官方信箱：monokitsune2017@gmail.com</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q46.若沒抽到場內籤一定要跳場外嗎? 可以退出企劃嗎? </p>
 									<div class="Answer">
 										<p>A46.沒抽到場內的同學官方將直接預設為場外，若是不想參加可以直接退出，官方不會加以制止。<br/>官網的角色資料可以在私下與官方聯繫後協助刪除。</p>
 									</div>
@@ -64,7 +75,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q45.請問官方會把立繪一起放在學生檔案嗎？？ <img src="images/new.gif"></p>
+									<p class="Question">Q45.請問官方會把立繪一起放在學生檔案嗎？？ </p>
 									<div class="Answer">
 										<p>A45.立繪在報名期間不會收入學生檔案中。待抽籤完畢，場外同學的立繪將直接加入檔案中，場內同學則是在日後使用到時才公開，但同學若想自行公開立繪，官方也不會加以阻止。</p>
 									</div>
@@ -75,7 +86,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q44.您好，請問此企劃中有由官方擔任「黑幕」之角色嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q44.您好，請問此企劃中有由官方擔任「黑幕」之角色嗎？ </p>
 									<div class="Answer">
 										<p>A44.這部分因涉及劇情不方便在此多加說明，若成功入學，再請隨著劇情推理出答案。</p>
 									</div>

@@ -45,7 +45,7 @@
 					<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
 
 					<div class="instuction_title">
-						<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+						<img src="images/number/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 						<div  class="title_back">
 							<div class="title_front">
 								<h3><b>（非）日常篇&nbsp;&nbsp;</b></h3>
@@ -119,7 +119,7 @@
 					</div>
 
 					<div class="instuction_title">
-						<img src="images/number2.png" style="width:100px; margin: 0 auto 0; display: block;">
+						<img src="images/number/number2.png" style="width:100px; margin: 0 auto 0; display: block;">
 						<div  class="title_back">
 							<div class="title_front">
 								<h3><b>非日常篇</b></h3>
@@ -236,7 +236,7 @@
 
 
 					<div id="trial" class="instuction_title">
-						<img src="images/number3.png" style="width:100px; margin: 0 auto 0; display: block;">
+						<img src="images/number/number3.png" style="width:100px; margin: 0 auto 0; display: block;">
 						<div  class="title_back">
 							<div class="title_front">
 								<h3><b>學級裁判</b></h3>
@@ -295,20 +295,20 @@
 
 		<div class="snip">
 		  <figure class="snip1566">
-		    <img src="images/number1.png" alt="sq-sample14" />
-		    <figcaption><img src="images/number1_h.png"></figcaption>
+		    <img src="images/number/number1.png" alt="sq-sample14" />
+		    <figcaption><img src="images/number/number1_h.png"></figcaption>
 		    <a href="description.php#daily"></a>
 		  </figure>
 
 		  <figure class="snip1566">
-		    <img src="images/number2.png" />
-		    <figcaption><img src="images/number2_h.png"></figcaption>
+		    <img src="images/number/number2.png" />
+		    <figcaption><img src="images/number/number2_h.png"></figcaption>
 		    <a href="description.php#non-daily"></a>
 		  </figure>
 
 		  <figure class="snip1566">
-		    <img src="images/number3.png" />
-		    <figcaption><img src="images/number3_h.png"></figcaption>
+		    <img src="images/number/number3.png" />
+		    <figcaption><img src="images/number/number3_h.png"></figcaption>
 		    <a href="description.php#trial"></a>
 		  </figure>
 		</div>

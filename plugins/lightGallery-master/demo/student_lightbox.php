@@ -426,7 +426,60 @@ $('#student23').on('click', function() {
         }]
     })
 });
-
+$('#student24').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/七海 秋/七海 秋-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/七海 秋/七海 秋-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/七海 秋/七海 秋-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/七海 秋/七海 秋-IDcard2.jpg'
+        }]
+    })
+});
+$('#student25').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/天之川 時央/天之川 時央-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/天之川 時央/天之川 時央-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/天之川 時央/天之川 時央-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/天之川 時央/天之川 時央-IDcard2.png'
+        }]
+    })
+});
+$('#student26').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/魚住 桃果/魚住 桃果-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/魚住 桃果/魚住 桃果-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/魚住 桃果/魚住 桃果-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/魚住 桃果/魚住 桃果-IDcard2.png'
+        }]
+    })
+});
+/*
+$('#student27').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/姓氏 名字/姓氏 名字-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/姓氏 名字/姓氏 名字-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/姓氏 名字/姓氏 名字-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/姓氏 名字/姓氏 名字-IDcard2.png'
+        }]
+    })
+});
+*/
 
 $('#student_out_1').on('click', function() {
     $(this).lightGallery({

@@ -7,7 +7,6 @@
 			include('link.php');
 		?>
 		<link href="css/map_f1.css" rel="stylesheet">
-		<link href="css/map_f.css" rel="stylesheet">
 	</head>
 	<body>
 
@@ -36,7 +35,7 @@
 						<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
 						
 							<div class="instuction_title" style="margin-bottom:10px;">
-								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<img src="images/number/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
 										<h3><b>1樓</b></h3>
@@ -82,8 +81,15 @@
 									<div class="f1_g_black"><p><b>冷藏 & 冷凍</b></p></div>
 								</div>
 
-								<div class="f1_h l"></div>
-								<div class="f1_i l"></div>
+								<!--<div class="f1_h l">
+									<div class="f1_h_gray"><p>？？？</p></div>
+									<div class="f1_h_black"><p><b>？？？</b></p></div>
+								</div>
+								
+								<div class="f1_i l">
+									<div class="f1_i_gray"><p>？？？</p></div>
+									<div class="f1_i_black"><p><b>？？？</b></p></div>
+								</div>-->
 							</div>
 
 

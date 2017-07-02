@@ -229,13 +229,60 @@
 /*=============================*/
 .f1_h{
   -webkit-clip-path:polygon(45px 1845px, 302px 1845px,302px 2020px,45px 2020px);
-  display:none !important;
 }
+.f1_h_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 850px;
+  left: -740px;
+}
+.f1_h_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1850px;
+  left: 260px;
+}
+.f1_h:hover .f1_h_black,.f1_h:hover .f1_h_gray{
+  top: 1350px;
+  left: -240px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f1_h_black p{
+  margin-top: 590px;
+  font-size: 32px;
+}
+.f1_h_gray p{
+  margin-top: 641px;
+  font-size: 15px;
+}
+/*=============================*/
 .f1_i{
   -webkit-clip-path:polygon(398px 1845px, 675px 1845px,675px 2020px,398px 2020px);
-  display:block;
-  display:none !important
 }
+.f1_i_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 850px;
+  left: -380px;
+}
+.f1_i_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1850px;
+  left: 620px;
+}
+.f1_i:hover .f1_i_black,.f1_i:hover .f1_i_gray{
+  top: 1350px;
+  left: 120px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f1_i_black p{
+  margin-top: 590px;
+  font-size: 32px;
+}
+.f1_i_gray p{
+  margin-top: 641px;
+  font-size: 15px;
+}
+/*=============================*/
 .f1_a:hover, .f1_b:hover, .f1_c:hover, .f1_d:hover, .f1_e:hover, .f1_f:hover, .f1_g:hover, .f1_h:hover, .f1_i:hover{
 	background:rgba(0,0,0,0.5);
 }

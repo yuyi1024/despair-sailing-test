@@ -90,7 +90,7 @@ h2{
 
 
 /*all start*/
-p, h1, h2, h3, h4, h5, h6, button{
+p, h1, h2, h3, h4, h5, h6, button,li{
   font-family: Microsoft JhengHei !important;
 }
 #container{

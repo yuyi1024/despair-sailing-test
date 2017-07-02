@@ -61,7 +61,7 @@
 						<img src="images/title2.png" class="sub_title">
 					</div>
 			
-					<section style="height:1600px;">
+					<section style="height:2000px;">
 						<ul id="da-thumbs" class="da-thumbs animate-left">
 							<li>
 								<a id="student1">
@@ -272,39 +272,40 @@
 									</div>
 								</a>
 							</li>
-							<!--<li>
+							<li>
 								<a id="student24">
-									<img src="plugins/lightGallery-master/demo/img/student_file//.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/七海 秋/七海 秋.png" />
 									<div>
-										<span class="file_name">狛枝凪斗</span>
-										<span class="file_talent">枝狛枝</span>
+										<span class="file_name">七海 秋</span>
+										<span class="file_talent">超高校級的軍醫</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a id="student25">
-									<img src="plugins/lightGallery-master/demo/img/student_file//.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/天之川 時央/天之川 時央.png" />
 									<div>
-										<span class="file_name">狛枝凪斗</span>
-										<span class="file_talent">枝狛枝</span>
+										<span class="file_name">天之川 時央</span>
+										<span class="file_talent">超高校級的天文學家</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a id="student26">
-									<img src="plugins/lightGallery-master/demo/img/student_file//.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/魚住 桃果/魚住 桃果.png" />
 									<div>
-										<span class="file_name">狛枝凪斗</span>
-										<span class="file_talent">枝狛枝</span>
+										<span class="file_name">魚住 桃果</span>
+										<span class="file_talent">超高校級的游泳選手</span>
 									</div>
 								</a>
 							</li>
-							<li>
+							
+							<!--<li>
 								<a id="student27">
 									<img src="plugins/lightGallery-master/demo/img/student_file//.png" />
 									<div>
-										<span class="file_name">狛枝凪斗</span>
-										<span class="file_talent">枝狛枝</span>
+										<span class="file_name">姓氏 名字</span>
+										<span class="file_talent">超高校級的才能</span>
 									</div>
 								</a>
 							</li>

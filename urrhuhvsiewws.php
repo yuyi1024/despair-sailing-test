@@ -39,7 +39,7 @@
 						<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
 						
 							<div id="f1" class="instuction_title" style="margin-bottom:10px;">
-								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<img src="images/number/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
 										<h3><b>1樓</b></h3>
@@ -48,7 +48,7 @@
 							</div>
 
 							<div class="f1">
-								<img src="images/map/f1_keepout.png" style=" position:absolute;">
+								<img src="images/map/f1/unknown/f1_2.png" style=" position:absolute;">
 
 								<div class="f1_a l">
 									<div class="f1_a_gray"><p>Lobby</p></div>
@@ -85,15 +85,22 @@
 									<div class="f1_g_black"><p><b>冷藏 & 冷凍</b></p></div>
 								</div>
 
-								<div class="f1_h l"></div>
-								<div class="f1_i l"></div>
+								<div class="f1_h l">
+									<div class="f1_h_gray"><p>Restroom II</p></div>
+									<div class="f1_h_black"><p><b>洗手間 II</b></p></div>
+								</div>
+								
+								<div class="f1_i l">
+									<div class="f1_i_gray"><p>Utility Room</p></div>
+									<div class="f1_i_black"><p><b>雜物間</b></p></div>
+								</div>
 							</div>
 
 
 							<!--f2-->
 
 							<div id="f2" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<img src="images/number/number2.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
 										<h3><b>2樓</b></h3>
@@ -102,7 +109,7 @@
 							</div>
 
 							<div class="f2">
-								<img src="images/map/unknown/f2.png" style=" position:absolute;">
+								<img src="images/map/f2/unknown/f2_3.png" style=" position:absolute;">
 
 								<div class="f2_a l">
 									<div class="f2_a_gray"><p>Utility Room</p></div>
@@ -154,7 +161,7 @@
 							<!--b1-->
 
 							<div id="b1" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<img src="images/number/b1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
 										<h3><b>地下室</b></h3>
@@ -163,7 +170,7 @@
 							</div>
 
 							<div class="b1">
-								<img src="images/map/unknown/b1.png" style=" position:absolute;">
+								<img src="images/map/b1/unknown/b1_6_trail.png" style=" position:absolute;">
 
 								<div class="b1_a l">
 									<div class="b1_a_gray"><p>Class Trial</p></div>
@@ -206,7 +213,7 @@
 							<!--f5-->
 
 							<div id="f5" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<img src="images/number/number5.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
 										<h3><b>五樓</b></h3>
@@ -259,26 +266,51 @@
 				</div>		
 			</div>
 
+			<div class="snip" style="right:100px;">
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number1.png" alt="sq-sample14" />
+			    <figcaption><img src="images/number/number1_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f1"></a>
+			  </figure>
+
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number2.png" />
+			    <figcaption><img src="images/number/number2_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f2"></a>
+			  </figure>
+
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number3.png" alt="sq-sample14" />
+			    <figcaption><img src="images/number/number3_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f3"></a>
+			  </figure>
+
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number4.png" />
+			    <figcaption><img src="images/number/number4_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f4"></a>
+			  </figure>
+			</div>
+
 			<div class="snip">
-		  <figure class="snip1566">
-		    <img src="images/number1.png" alt="sq-sample14" />
-		    <figcaption><img src="images/number1_h.png"></figcaption>
-		    <a href="urrhuhvsiewws.php#f1"></a>
-		  </figure>
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number5.png" />
+			    <figcaption><img src="images/number/number5_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f5"></a>
+			  </figure>
 
-		  <figure class="snip1566">
-		    <img src="images/number2.png" />
-		    <figcaption><img src="images/number2_h.png"></figcaption>
-		    <a href="urrhuhvsiewws.php#f2"></a>
-		  </figure>
+			  <figure class="snip1566 floor">
+			    <img src="images/number/number6.png" />
+			    <figcaption><img src="images/number/number6_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#f6"></a>
+			  </figure>
 
-		  <figure class="snip1566">
-		    <img src="images/number3.png" />
-		    <figcaption><img src="images/number3_h.png"></figcaption>
-		    <a href="urrhuhvsiewws.php#b1"></a>
-		  </figure>
-		</div>
-		
+			  <figure class="snip1566 floor">
+			    <img src="images/number/b1.png" />
+			    <figcaption><img src="images/number/b1_h.png"></figcaption>
+			    <a href="urrhuhvsiewws.php#b1"></a>
+			  </figure>
+			</div>
 	</body>
 </html>
 
@@ -286,6 +318,10 @@
 	.notice2{
 		display: none;
 		font-size: 26px;
+	}
+	.snip .floor{
+		max-width: 90px;
+		margin: 8px;
 	}
 
 	@media only screen and (max-width: 1000px) {
