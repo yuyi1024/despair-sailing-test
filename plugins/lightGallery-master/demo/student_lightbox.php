@@ -465,8 +465,21 @@ $('#student26').on('click', function() {
         }]
     })
 });
-/*
 $('#student27').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/藤田 芽天緒/藤田 芽天緒-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/藤田 芽天緒/藤田 芽天緒-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/藤田 芽天緒/藤田 芽天緒-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/藤田 芽天緒/藤田 芽天緒-IDcard2.png'
+        }]
+    })
+});
+/*
+$('#student28').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
@@ -494,7 +507,19 @@ $('#student_out_1').on('click', function() {
         }]
     })
 });
-
+$('#student_out_2').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/古座 水季/古座 水季-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/古座 水季/古座 水季-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/古座 水季/古座 水季-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/古座 水季/古座 水季-IDcard2.png'
+        }]
+    })
+});
 
 
 

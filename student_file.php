@@ -299,9 +299,19 @@
 									</div>
 								</a>
 							</li>
+
+							<li>
+								<a id="student27">
+									<img src="plugins/lightGallery-master/demo/img/student_file/藤田 芽天緒/藤田 芽天緒.png" />
+									<div>
+										<span class="file_name">藤田 芽天緒</span>
+										<span class="file_talent">超高校級的植物學家</span>
+									</div>
+								</a>
+							</li>
 							
 							<!--<li>
-								<a id="student27">
+								<a id="student28">
 									<img src="plugins/lightGallery-master/demo/img/student_file//.png" />
 									<div>
 										<span class="file_name">姓氏 名字</span>
@@ -333,16 +343,27 @@
 									</div>
 								</a>
 							</li>
-							<!--<li>
-								<a id="student_out_1">
-									<img src="plugins/DirectionAwareHoverEffect/images/s1.png" />
+
+							<li>
+								<a id="student_out_2">
+									<img src="plugins/lightGallery-master/demo/img/student_file/古座 水季/古座 水季.png" />
 									<div>
-										<span class="file_name">狛枝凪斗</span>
-										<span class="file_talent">超高校級的死神</span>
+										<span class="file_name">古座 水季</span>
+										<span class="file_talent">超高校級的化妝師</span>
 									</div>
 								</a>
 							</li>
-						</ul>-->
+
+							<!--<li>
+								<a id="student_out_3">
+									<img src="plugins/DirectionAwareHoverEffect/images/s1.png" />
+									<div>
+										<span class="file_name">姓氏 名字</span>
+										<span class="file_talent">超高校級的才能</span>
+									</div>
+								</a>
+							</li>-->
+						</ul>
 					</section>
 
 
