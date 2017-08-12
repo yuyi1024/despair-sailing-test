@@ -8,6 +8,7 @@
 		?>
 		<link href="css/map_f1.css" rel="stylesheet">
 		<link href="css/map_f2.css" rel="stylesheet">
+		<link href="css/map_f3.css" rel="stylesheet">
 		<link href="css/map_b1.css" rel="stylesheet">
 
 		<link rel="stylesheet" href="css/snip_button.css">
@@ -48,7 +49,7 @@
 							</div>
 
 							<div class="f1">
-								<img src="images/map/f1/unknown/f1_2.png" style=" position:absolute;">
+								<img src="images/map/f1/f1_2.png" style=" position:absolute;">
 
 								<div class="f1_a l">
 									<div class="f1_a_gray"><p>Lobby</p></div>
@@ -155,6 +156,63 @@
 									<div class="f2_i_gray"><p>Corridor</p></div>
 									<div class="f2_i_black"><p><b>走廊</b></p></div>
 								</div>
+							</div>
+
+
+							<!--f3-->
+
+							<div id="f3" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number/number3.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>3樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f3">
+								<img src="images/map/f3/f3_2.png" style=" position:absolute;">
+
+								<div class="f3_d l">
+									<div class="f3_d_gray"><p>Gaming Room</p></div>
+									<div class="f3_d_black"><p><b>遊戲廳</b></p></div>
+								</div>
+
+								<div class="f3_e l">
+									<div class="f3_e_gray"><p>Corridor</p></div>
+									<div class="f3_e_black"><p><b>走廊</b></p></div>
+								</div>
+
+								<div class="f3_f l">
+									<div class="f3_f_gray"><p>Restroom</p></div>
+									<div class="f3_f_black"><p><b>洗手間</b></p></div>
+								</div>
+
+								<div class="f3_g l">
+									<div class="f3_g_gray"><p></p></div>
+									<div class="f3_g_black"><p><b>垃圾<br/>處理間</b></p></div>
+								</div>
+
+								<div class="f3_h l">
+									<div class="f3_h_gray"><p>Counseling Room</p></div>
+									<div class="f3_h_black"><p><b>諮商輔導室</b></p></div>
+								</div>
+
+								<div class="f3_i l">
+									<div class="f3_i_gray"><p>Information Room</p></div>
+									<div class="f3_i_black"><p><b>資訊室</b></p></div>
+								</div>
+
+								<div class="f3_j l">
+									<div class="f3_j_gray"><p>Church</p></div>
+									<div class="f3_j_black"><p><b>教堂</b></p></div>
+								</div>
+
+								<div class="f3_k l">
+									<div class="f3_k_gray"><p>Sewing Room</p></div>
+									<div class="f3_k_black"><p><b>裁縫工作室</b></p></div>
+								</div>
+
 							</div>
 
 

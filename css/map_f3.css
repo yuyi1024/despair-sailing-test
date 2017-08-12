@@ -1,0 +1,277 @@
+.f3{
+  width:720px; 
+  height:2050px;
+  margin: 0 auto; 
+  display:block;
+}
+.f3 .l{
+  width:700px;
+  height:2050px;
+  position: absolute;
+  overflow: hidden;
+}
+.l:hover{
+  cursor: pointer;
+}
+.l div{
+  width:1000px;
+  height:1000px;
+  position: absolute;
+  background-size: 100% 30px;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg); /* Internet Explorer */
+  -moz-transform:rotate(45deg); /* Firefox */
+  -webkit-transform:rotate(45deg); /* Safari 和 Chrome */
+  -o-transform:rotate(45deg); /* Opera */
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.l p{
+  text-align: center;
+  color: #fff;
+}
+/*=============================*/
+.f3_d{
+  -webkit-clip-path:polygon(45px 571px, 676px 571px,676px 1115px,45px 1115px);
+}
+.f3_d_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -450px;
+  left: -940px;
+}
+.f3_d_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1150px;
+  left: 660px;
+}
+.f3_d:hover .f3_d_black,.f3_d:hover .f3_d_gray{
+  top: 350px;
+  left: -140px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_d_black p{
+  margin-top: 460px;
+  margin-left: -40px;
+  font-size: 40px;
+}
+.f3_d_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_e{
+  -webkit-clip-path:polygon(300px 1115px, 420px 1115px,420px 2015px,300px 2015px);
+}
+.f3_e_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 280px;
+  left: -940px;
+}
+.f3_e_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1880px;
+  left: 660px;
+}
+.f3_e:hover .f3_e_black,.f3_e:hover .f3_e_gray{
+  top: 1080px;
+  left: -140px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_e_black p{
+  margin-top: 400px;
+  margin-left: -120px;
+  font-size: 40px;
+}
+.f3_e_gray p{
+  margin-top: 462px;
+  margin-left: -120px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_f{
+  -webkit-clip-path:polygon(45px 1115px, 300px 1115px,300px 1299px,45px 1299px);
+}
+.f3_f_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 190px;
+  left: -830px;
+}
+.f3_f_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1190px;
+  left: 170px;
+}
+.f3_f:hover .f3_f_black,.f3_f:hover .f3_f_gray{
+  top: 690px;
+  left: -330px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_f_black p{
+  margin-top: 470px;
+  margin-left: 30px;
+  font-size: 32px;
+}
+.f3_f_gray p{
+  margin-top: 522px;
+  margin-left: 30px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_g{
+  -webkit-clip-path:polygon(420px 1115px, 676px 1115px,676px 1195px,420px 1195px);
+}
+.f3_g_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 150px;
+  left: -470px;
+}
+.f3_g_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1150px;
+  left: 530px;
+}
+.f3_g:hover .f3_g_black,.f3_g:hover .f3_g_gray{
+  top: 650px;
+  left: 30px;
+  -webkit-transition: .6s; /* Safari */
+  transition: .6s;
+}
+.f3_g_black p{
+  margin-top: 460px;
+  margin-left: 30px;
+  font-size: 22px;
+}
+.f3_g_gray p{
+  margin-top: 522px;
+  margin-left: 30px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_h{
+  -webkit-clip-path:polygon(45px 1299px,300px 1299px,300px 1633px,45px 1633px);
+}
+.f3_h_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 450px;
+  left: -880px;
+}
+.f3_h_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1550px;
+  left: 220px;
+}
+.f3_h:hover .f3_h_black,.f3_h:hover .f3_h_gray{
+  top: 1000px;
+  left: -330px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_h_black p{
+  margin-top: 440px;
+  margin-left: -60px;
+  font-size: 32px;
+}
+.f3_h_gray p{
+  margin-top: 491px;
+  margin-left: -60px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_i{
+  -webkit-clip-path:polygon(420px 1195px,676px 1195px,676px 1530px,420px 1530px);
+}
+.f3_i_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 370px;
+  left: -470px;
+}
+.f3_i_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1370px;
+  left: 530px;
+}
+.f3_i:hover .f3_i_black,.f3_i:hover .f3_i_gray{
+  top: 870px;
+  left: 30px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_i_black p{
+  margin-top: 440px;
+  font-size: 32px;
+}
+.f3_i_gray p{
+  margin-top: 492px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_j{
+  -webkit-clip-path:polygon(45px 1633px,300px 1633px,300px 2015px,45px 2015px);
+}
+.f3_j_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 780px;
+  left: -930px;
+}
+.f3_j_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1980px;
+  left: 270px;
+}
+.f3_j:hover .f3_j_black,.f3_j:hover .f3_j_gray{
+  top: 1380px;
+  left: -330px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_j_black p{
+  margin-top: 440px;
+  margin-left: -60px;
+  font-size: 32px;
+}
+.f3_j_gray p{
+  margin-top: 491px;
+  margin-left: -60px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_k{
+  -webkit-clip-path:polygon(420px 1530px,676px 1530px,676px 1909px,420px 1909px);
+}
+.f3_k_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: 690px;
+  left: -520px;
+}
+.f3_k_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1790px;
+  left: 580px;
+}
+.f3_k:hover .f3_k_black,.f3_k:hover .f3_k_gray{
+  top: 1240px;
+  left: 30px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_k_black p{
+  margin-top: 440px;
+  font-size: 32px;
+}
+.f3_k_gray p{
+  margin-top: 492px;
+  font-size: 15px;
+}
+
+.f3_a:hover, .f3_b:hover, .f3_c:hover, .f3_d:hover, .f3_e:hover, .f3_f:hover, .f3_g:hover, .f3_h:hover, .f3_i:hover, .f3_j:hover, .f3_k:hover{
+  background:rgba(0,0,0,0.5);
+}
+/*=============================*/
+
+.f3_a:hover, .f3_b:hover, .f3_c:hover, .f3_d:hover, .f3_e:hover, .f3_f:hover, .f3_g:hover, .f3_h:hover{
+  background:rgba(0,0,0,0.5);
+}

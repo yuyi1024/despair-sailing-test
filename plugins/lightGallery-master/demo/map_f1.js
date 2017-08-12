@@ -30,12 +30,16 @@ $('.f1_a').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby07.png',
             'subHtml': "<h4>大廳</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby08.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby08.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby10.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby10.png',
             'subHtml': "<h4>大廳</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby09.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby09.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby11.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby11.png',
+            'subHtml': "<h4>大廳</h4><p></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby12.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby12.png',
             'subHtml': "<h4>大廳</h4><p></p>"
         }]
     })
@@ -80,6 +84,14 @@ $('.f1_c').on('click', function() {
         }, {
             'src': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant03.png',
             'thumb': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant03.png',
+            'subHtml': "<h4>餐廳</h4></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant04.png',
+            'subHtml': "<h4>餐廳</h4></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant05.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/c-restaurant05.png',
             'subHtml': "<h4>餐廳</h4></p>"
         }]
     })
@@ -150,5 +162,45 @@ $('.f1_g').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f1/g-fridges03.png',
             'subHtml': "<h4>冷藏/凍室</h4><p></p>"
         }]
+    })
+});
+$('.f1_h').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/h-restroom01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/h-restroom01.png',
+            'subHtml': '<h4></h4><p></p>'
+        },{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/h-restroom02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/h-restroom02.png',
+            'subHtml': '<h4></h4><p></p>'
+        },{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/h-restroom03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/h-restroom03.png',
+            'subHtml': '<h4></h4><p></p>'
+        },{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/h-restroom04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/h-restroom04.png',
+            'subHtml': '<h4></h4><p></p>'
+        },]
+    })
+});
+$('.f1_i').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/i-utility01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/i-utility01.png',
+            'subHtml': '<h4></h4><p></p>'
+        },{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/i-utility02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/i-utility02.png',
+            'subHtml': '<h4></h4><p></p>'
+        },{
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/i-utility03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/i-utility03.png',
+            'subHtml': '<h4></h4><p></p>'
+        },]
     })
 });

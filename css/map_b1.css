@@ -132,6 +132,6 @@
 
 
 
-.b1_a:hover, .b1_b:hover,{
+.b1_a:hover, .b1_b:hover,.b1_g:hover{
   background:rgba(0,0,0,0.5);
 }

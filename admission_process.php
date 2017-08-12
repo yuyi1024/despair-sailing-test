@@ -40,7 +40,7 @@
 								</div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h4>2017/05/01 - 2017/05/25</h4>
+										<h4>2017/05/01 - 2017/05/25(已結束)</h4>
 										<h4 class="subheading">填寫調查表單</h4>
 									</div>
 									<div class="timeline-body animate-left">
@@ -59,7 +59,7 @@
 								</div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h4>即日起 - 2017/07/13 21:00</h4>
+										<h4>即日起 - 2017/07/13 21:00(已結束)</h4>
 										<h4 class="subheading">設計角色</h4>
 									</div>
 									<div class="timeline-body animate-left">
@@ -79,7 +79,7 @@
 								</div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h4>2017/06/01 - 2017/07/13 21:00</h4>
+										<h4>2017/06/01 - 2017/07/13 21:00(已結束)</h4>
 										<h4 class="subheading">報名開始</h4>
 									</div>
 									<div class="timeline-body animate-left">
@@ -97,7 +97,7 @@
 								</div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h4>2017/07/14 0:00</h4>
+										<h4>2017/07/14 0:00(已結束)</h4>
 										<h4 class="subheading">抽籤</h4>
 									</div>
 									<div class="timeline-body animate-left">

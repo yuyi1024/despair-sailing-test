@@ -478,6 +478,175 @@ $('#student27').on('click', function() {
         }]
     })
 });
+$('#student28').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/安間 昼/安間 昼-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/安間 昼/安間 昼-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/安間 昼/安間 昼-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/安間 昼/安間 昼-IDcard2.png'
+        }]
+    })
+});
+$('#student29').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月見 葵/月見 葵-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月見 葵/月見 葵-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月見 葵/月見 葵-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月見 葵/月見 葵-IDcard2.jpg'
+        }]
+    })
+});
+$('#student30').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月見 鬼灯/月見 鬼灯-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月見 鬼灯/月見 鬼灯-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月見 鬼灯/月見 鬼灯-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月見 鬼灯/月見 鬼灯-IDcard2.jpg'
+        }]
+    })
+});
+$('#student31').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子-IDcard2.jpg'
+        }]
+    })
+});
+$('#student32').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/喬牧柼/喬牧柼-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/喬牧柼/喬牧柼-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/喬牧柼/喬牧柼-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/喬牧柼/喬牧柼-IDcard2.png'
+        }]
+    })
+});
+$('#student33').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/穂戸田 清衣/穂戸田 清衣-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/穂戸田 清衣/穂戸田 清衣-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/穂戸田 清衣/穂戸田 清衣-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/穂戸田 清衣/穂戸田 清衣-IDcard2.png'
+        }]
+    })
+});
+$('#student34').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/座津 世世/座津 世世-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/座津 世世/座津 世世-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/座津 世世/座津 世世-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/座津 世世/座津 世世-IDcard2.jpg'
+        }]
+    })
+});
+$('#student35').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/神田 葵/神田 葵-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/神田 葵/神田 葵-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/神田 葵/神田 葵-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/神田 葵/神田 葵-IDcard2.jpg'
+        }]
+    })
+});
+$('#student36').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月島 瞳/月島 瞳-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月島 瞳/月島 瞳-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月島 瞳/月島 瞳-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月島 瞳/月島 瞳-IDcard2.png'
+        }]
+    })
+});
+$('#student37').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐藤 七夜/佐藤 七夜-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐藤 七夜/佐藤 七夜-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐藤 七夜/佐藤 七夜-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐藤 七夜/佐藤 七夜-IDcard2.png'
+        }]
+    })
+});
+$('#student38').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/零次 修一/零次 修一-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/零次 修一/零次 修一-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/零次 修一/零次 修一-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/零次 修一/零次 修一-IDcard2.png'
+        }]
+    })
+});
+$('#student39').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/伊藤 数彦/伊藤 数彦-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/伊藤 数彦/伊藤 数彦-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/伊藤 数彦/伊藤 数彦-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/伊藤 数彦/伊藤 数彦-IDcard2.png'
+        }]
+    })
+});
+$('#student40').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/富上 建志/富上 建志-IDcard1.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/富上 建志/富上 建志-IDcard1.png'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/富上 建志/富上 建志-IDcard2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/富上 建志/富上 建志-IDcard2.png'
+        }]
+    })
+});
 /*
 $('#student28').on('click', function() {
     $(this).lightGallery({
@@ -520,7 +689,45 @@ $('#student_out_2').on('click', function() {
         }]
     })
 });
-
+$('#student_out_3').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月澄 末/月澄 末-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月澄 末/月澄 末-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/月澄 末/月澄 末-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/月澄 末/月澄 末-IDcard2.jpg'
+        }]
+    })
+});
+$('#student_out_4').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐藤 陽介/佐藤 陽介-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐藤 陽介/佐藤 陽介-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐藤 陽介/佐藤 陽介-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐藤 陽介/佐藤 陽介-IDcard2.jpg'
+        }]
+    })
+});
+$('#student_out_5').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐倉 和里/佐倉 和里-IDcard1.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐倉 和里/佐倉 和里-IDcard1.jpg'
+        },
+        {
+            "src": 'plugins/lightGallery-master/demo/img/student_file/佐倉 和里/佐倉 和里-IDcard2.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/佐倉 和里/佐倉 和里-IDcard2.jpg'
+        }]
+    })
+});
 
 
 

@@ -50,10 +50,16 @@
 							<h3><b>表單連結</b></h3>
 							<img src="images/title2.png" class="sub_title">
 							<div class="text">
-								<!--<p>意願調查表單： <a href="https://goo.gl/rtyPLL">https://goo.gl/rtyPLL</a></p>-->	
-								<p>意願調查結果： <a href="https://goo.gl/dzhCXO">https://goo.gl/dzhCXO</a></p>	
-								<p>報名表單： <a href="https://goo.gl/cJR2Mc">https://goo.gl/cJR2Mc</a></p>		
-								<p>主線案件報名表單： 尚未開放</p>	
+								<!--<p>意願調查表單： <a href="https://goo.gl/rtyPLL">https://goo.gl/rtyPLL</a></p>	
+								<p >意願調查結果： <a href="https://goo.gl/dzhCXO">https://goo.gl/dzhCXO</a></p>	
+								<p>報名表單： <a href="https://goo.gl/cJR2Mc">https://goo.gl/cJR2Mc</a></p>-->		
+								<p>【兇手】報名表單： <a href="https://goo.gl/drZCcG">https://goo.gl/drZCcG</a></p>	
+								<p>【死者】報名表單： <a href="https://goo.gl/mdV6sp">https://goo.gl/mdV6sp</a></p>	
+								<p>【案件關係人】報名表單： <a href="https://goo.gl/wHNAFH">https://goo.gl/wHNAFH</a></p>	
+								<p>主線案件報名結果： <a href="https://goo.gl/uMohdm">https://goo.gl/uMohdm</a></p>	
+								<p>【絕望航行】愛船模式筆記本： <a href="https://goo.gl/FMkxAu">https://goo.gl/FMkxAu</a></p>	
+								<p>【絕望航行】角色習慣： <a href="https://goo.gl/Biv6Fz">https://goo.gl/Biv6Fz</a></p>	
+								<p>黑白狐轉蛋機： <a href="https://goo.gl/WzeaD8">https://goo.gl/WzeaD8</a></p>	
 							</div>
 						</div>
 
@@ -77,12 +83,11 @@
 							<div class="text">
 								<p>希望之峰校徽： 彈丸論破原作遊戲</p>	
 								<p>噗浪背景： <a href="http://www.mafengwo.cn/i/3357442.html">海底圖</a></p>
-								<p>開頭動畫BGM： 彈丸論破原作遊戲 - Beautiful Days</p>
+								<!--<p>開頭動畫BGM： 彈丸論破原作遊戲 - Beautiful Days</p>-->
+								<p>開頭動畫BGM： 彈丸論破原作遊戲 - さよなら絶望学園</p>
 								<p>網站BGM： 彈丸論破原作遊戲 - DANGANRONPA</p>	
 							</div>
 						</div>
-
-						
 
 						
 					

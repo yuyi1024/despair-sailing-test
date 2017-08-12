@@ -34,7 +34,7 @@
 						<img src="images/eye.png" class="eye">
 						<ul class="sub-menu">
 							<li><a href="rules.php"><img src="images/arr.png" class="arr"> 報名規則</a></li>
-							<li><a href="admission_process.php"><img src="images/arr.png" class="arr"> 報名流程</a></li>
+							<li><a href="admission_process.php"><img src="images/arr.png" class="arr"> 報名流程<span style="font-size:6px;">(已結束)</span></a></li>
 							<li><a href="download.php"><img src="images/arr.png" class="arr"> 素材下載</a></li>
 						</ul>
 					</li>
@@ -55,10 +55,10 @@
 						<img src="images/eye.png" class="eye">
 					</li>
 
-					<!--<li <?php if($_SERVER['SCRIPT_NAME']=="/recall.php") { ?>  class="active"   <?php   }  ?>>
+					<li <?php if($_SERVER['SCRIPT_NAME']=="/recall.php") { ?>  class="active"   <?php   }  ?>>
 						<a href="recall.php">Recall</a>
 						<img src="images/eye.png" class="eye">
-					</li>-->
+					</li>
 			
 					<li <?php if($_SERVER['SCRIPT_NAME']=="/qanda.php") { ?>  class="active"   <?php   }  ?>>
 						<a href="qanda.php">Q&A</a>

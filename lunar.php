@@ -76,6 +76,13 @@
 		    </div>
 
 		    <div class="pbg">
+	        <img src="plugins\booklet\images\lunar/p11.png">
+		    </div>
+		    <div>
+	        <img src="plugins\booklet\images\lunar/p12.png">
+		    </div>
+
+		    <div class="pbg">
 		        <img src="plugins\booklet\images\lunar/cover2.png">
 		    </div>
 			</div>

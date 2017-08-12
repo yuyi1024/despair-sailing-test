@@ -148,7 +148,7 @@
 					                <img data-u="thumb" src="plugins/slider/img/num/3.png" />
 					            </div>
 					            <div>
-					                <img data-u="image" src="plugins/slider/img/校規-4-希望.jpg" />
+					                <img data-u="image" src="plugins/slider/img/校規-4.jpg" />
 					                <img data-u="thumb" src="plugins/slider/img/num/4.png" />
 					            </div>
 					            <div>
@@ -164,9 +164,22 @@
 					                <img data-u="thumb" src="plugins/slider/img/num/7.png" />
 					            </div>
 					            <div>
-					                <img data-u="image" src="plugins/slider/img/校規-8-追加.jpg" />
+					                <img data-u="image" src="plugins/slider/img/校規-8.jpg" />
 					                <img data-u="thumb" src="plugins/slider/img/num/8.png" />
 					            </div>
+					            <div>
+					                <img data-u="image" src="plugins/slider/img/校規-9.jpg" />
+					                <img data-u="thumb" src="plugins/slider/img/num/9.png" />
+					            </div>
+					            <div>
+					                <img data-u="image" src="plugins/slider/img/校規-10.jpg" />
+					                <img data-u="thumb" src="plugins/slider/img/num/10.png" />
+					            </div>
+					            <div>
+					                <img data-u="image" src="plugins/slider/img/校規-11-追加.jpg" />
+					                <img data-u="thumb" src="plugins/slider/img/num/11.png" />
+					            </div>
+					           
 					        </div>
 					        <!-- Thumbnail Navigator -->
 					        <div data-u="thumbnavigator" class="jssort01-99-66" style="position:absolute;right:0px;top:0px;width:240px;height:540px;" data-autocenter="2">
