@@ -110,9 +110,14 @@
         <p><strong style="color:red;">私立希望之峰學園，</strong>^100<br/>集合各領域的超一流高校生，^100<br/>以培育精英為目的，^100並獲得政府公認的超特權學校。^600<br/><br/>有人說，若能從這所學校畢業，^100<br/>人生幾乎等於是成功了。</p>
         <p>這天對我來說，不單純只是 365 天當中的一天，^200<br/><strong>私立希望之峰學園</strong>，^300<br/>我現在就站在這樣一所學校前面，^500<br/><span style="line-height: 70px; font-size: 35px;">「差不多該進去了吧 . . .」</span>^300<br/>這是嶄新的校園生活，^200充滿<strong style="color:red;">希望</strong>的第一步 . . .^600<br/>. . . . . . 應該是這樣才對。^500<br/>咦 . . . ^300奇怪 . . .^500<br/>我怎麼 . . . . . .^1200/&>?+*!@<img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
         -->
+        <!--
         <p><br/>我討厭 <strong style="color:red;">太陽</strong>，^1200<br/><br/>那日出就如同侵略者一般，^1000<br/><br/>將海平面染上絕對的純白。^1200</p>
         <p>在這<b>超高校級</b>閃耀的每一天，^800<br/><br/>以<strong style="color:red;">希望</strong>照亮世界的每一天，^800<br/><br/>從沒有人懷疑過，^800在炙熱的光芒下，^800<br/><br/>那<b style="color:#000; text-shadow:1px 1px 1px #aaaaaa;">陰影</b>究竟有多深‧‧‧‧‧‧‧</p>
+        -->
 
+        <p><br/>月光只是黑夜中的幻影^1200<br/><br/>月下的誓言等於<strong style="color:red;">謊言</strong>^1200<br/><br/>以前的我不懂^1200<br/><br/>以狂奔之姿追逐著<strong>希望</strong>........^1200</p>
+        <p><br/>但我早該知道^1000<br/>不管流出多少 <span style="color:#67676F;">▃▇▅▁▇</span>^800<br/>不管堆了多高的 <span style="color:#67676F;">▅▁▇█▄▃</span>^1000<br/>終究不可能碰觸到^1200<br/><br/>因為用這種東西堆疊出來的^1200<br/>不可能^500是<strong style="color:red;">^200幸^200福^200結^200局^500</strong><img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
+        
 
     </div>
     <span id="typed" style="white-space:pre;"></span>

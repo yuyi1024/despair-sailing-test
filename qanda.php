@@ -53,7 +53,18 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q58.請問詢問問題如想更快速得到答覆，比起Q&A<br/>是否私噗詢問官方比較快速？ <img src="images/new.gif"></p>
+									<p class="Question">Q59.官方您好，這裡雖然因為忙碌所以當初沒有投報角色但持續有在關注企劃，剛剛看見了您8/14的公告，所以想來告訴您一聲：我知道!!我知道官網的動畫會改變！我知道我知道！！前幾天就有看見了，覺得超級用心！除此之外官方在架構貴企劃上真的很著重細節(地圖還有官網變化等等)，希望企劃可以圓滿完成，祝順利！</p>
+									<div class="Answer">
+										<p>A59.非常感謝你的關注與心得回報。希望官方所設計的細節能夠帶給各位參加者與觀眾愉快的企劃體驗，也很榮幸能獲得這樣的回饋，官方真的非常開心、也很感激，謝謝你的祝福！！<br/>（by 爆哭的全體工作人員）</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q58.請問詢問問題如想更快速得到答覆，比起Q&A<br/>是否私噗詢問官方比較快速？ </p>
 									<div class="Answer">
 										<p>A58.是，Q&A主要的目的是匿名發問與公開回答，若有角色相關的問題直接私噗詢問會更快速。</p>
 									</div>
@@ -64,7 +75,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q57.請問大廳有電視遊樂器如：XB●X、Wi●、VR之類的可以玩嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q57.請問大廳有電視遊樂器如：XB●X、Wi●、VR之類的可以玩嗎？ </p>
 									<div class="Answer">
 										<p>A57.沒有，大廳中沒有電視遊樂器。</p>
 									</div>
@@ -75,7 +86,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q56.想問一下官方，在企劃裡提到它部作品（ex：灌籃高手…）是允許的嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q56.想問一下官方，在企劃裡提到它部作品（ex：灌籃高手…）是允許的嗎？ </p>
 									<div class="Answer">
 										<p>A56.可以，但請適時的碼掉關鍵字（ex：灌●高手）、或改變字元（ex：iqhone）。</p>
 									</div>
@@ -86,7 +97,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q55.官方好，想問官方公告的探索 > 在公開噗中發現的線索，其他同學仍只能透過「交流」或「自己搜索」兩種方式得知 < 所以別人探索過一樣的地方，自己也能重複探索嗎? <img src="images/new.gif"></p>
+									<p class="Question">Q55.官方好，想問官方公告的探索 > 在公開噗中發現的線索，其他同學仍只能透過「交流」或「自己搜索」兩種方式得知 < 所以別人探索過一樣的地方，自己也能重複探索嗎? </p>
 									<div class="Answer">
 										<p>A55.是的，若是角色沒有親自調查或從交流中得知情報便不會知道相關線索。但可以透過推理、常理判斷縮小物品所在位置。(ex.想做飯的同學覺得鍋具應該在廚房裡，直接從櫃子找到鍋具)<br/>探索過的地方可以再進行探索，但有些情報可能只有部份人才能獲得（ex.才能相關、互動）。</p>
 									</div>
@@ -97,7 +108,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q54.請問場外的同學們也能有自己的房間嗎？<br/>可以假設2樓個人房間向外繼續延伸出去嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q54.請問場外的同學們也能有自己的房間嗎？<br/>可以假設2樓個人房間向外繼續延伸出去嗎？ </p>
 									<div class="Answer">
 										<p>A54.有，預設成2樓的個人房間延伸出去就可以。</p>
 									</div>
@@ -108,7 +119,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q53.一直想問一下官方<br/>為什麼有兩個角色看起來像是同一個人投稿的？ <img src="images/new.gif"></p>
+									<p class="Question">Q53.一直想問一下官方<br/>為什麼有兩個角色看起來像是同一個人投稿的？ </p>
 									<div class="Answer">
 										<p>A53.所有報名的的同學皆確認過不是同一人報名，若是指畫風一樣可能因為是同一繪師所繪製。</p>
 									</div>
@@ -119,7 +130,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q52.請問場外同學可以進行學級裁判嗎？<br/>如果可以，能夠由死者角噗主持非日常篇(發現屍體)、學級裁判等場內黑白狐的位置嗎？<br/>還是必須也要同場內同學向校長進行案件報名、討論後由黑白狐主持？ <img src="images/new.gif"></p>
+									<p class="Question">Q52.請問場外同學可以進行學級裁判嗎？<br/>如果可以，能夠由死者角噗主持非日常篇(發現屍體)、學級裁判等場內黑白狐的位置嗎？<br/>還是必須也要同場內同學向校長進行案件報名、討論後由黑白狐主持？ </p>
 									<div class="Answer">
 										<p>A52.官方正在商議場外規範的具體內容，日後將會做出場外規範的公告，感謝詢問請耐心稍等。</p>
 									</div>
@@ -130,7 +141,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q51.請問官方會舉辦讓場內外皆可參加的活動嗎？還是全部以場內為主？場外官方不予理會？<br/>這樣的話死亡出局的人不也算是變成場外？？<br/>能自行舉辦活動或是投稿給官方發佈嗎？ <img src="images/new.gif"></p>
+									<p class="Question">Q51.請問官方會舉辦讓場內外皆可參加的活動嗎？還是全部以場內為主？場外官方不予理會？<br/>這樣的話死亡出局的人不也算是變成場外？？<br/>能自行舉辦活動或是投稿給官方發佈嗎？ </p>
 									<div class="Answer">
 										<p>A51.官方會自發舉辦的活動只有場內的主線，但場外同學可自由使用渡輪上的設施，也可根據動機創作與交流。<br/>死亡出局的同學將視作場外，但仍可進行一些主線創作(內容尚未公布)。<br/>無論場內外同學皆歡迎自行舉辦活動，若有需要也可以向官方尋求協助。</p>
 									</div>
@@ -141,7 +152,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q50.請問接受綜合企劃角噗嗎？這裡有發現疑似有一角噗參與超過三個企劃的案例 <img src="images/new.gif"></p>
+									<p class="Question">Q50.請問接受綜合企劃角噗嗎？這裡有發現疑似有一角噗參與超過三個企劃的案例 </p>
 									<div class="Answer">
 										<p>A50.接受，但強烈建議不要使用超過兩個角色的共用噗，否則可能造成其他人的困擾或是洗河道的情況發生。<br/>抽完籤後若有同學是使用超過兩個角色的共用噗，官方會再個別作提醒。</p>
 									</div>
@@ -152,7 +163,7 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
-									<p class="Question">Q49.您好，想請問若是有被抽上場內之後，立繪跟學生證上的照片可以修改嗎？謝謝官方:) <img src="images/new.gif"></p>
+									<p class="Question">Q49.您好，想請問若是有被抽上場內之後，立繪跟學生證上的照片可以修改嗎？謝謝官方:) </p>
 									<div class="Answer">
 										<p>A49.立繪跟學生檔案一旦報名截止即不能修改。抽完籤後會立即開始製作殘存人數與學裁位置圖等等的檔案，故不接受更改。</p>
 									</div>

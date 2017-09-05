@@ -1,3 +1,165 @@
+$('.f3_a').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall01.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall02.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall03.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall04.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall05.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall05.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall06.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall06.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall07.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall07.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall08.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall08.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall09.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall09.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall10.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall10.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall11.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/a_performance hall11.png',
+            'subHtml': '<h4>表演廳</h4><p></p>'
+        }]
+    })
+});
+$('.f3_b').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room01.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room02.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room03.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room04.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room05.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room05.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room06.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room06.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room07.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room07.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room08.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/b_preparation room08.png',
+            'subHtml': '<h4>準備室</h4><p></p>'
+        }]
+    })
+});
+$('.f3_c').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room01.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room02.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room03.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room04.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room05.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room05.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room06.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room06.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room07.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room07.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room08.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room08.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room09.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room09.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room10.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room10.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room11.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room11.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room12.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room12.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room13.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room13.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room14.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room14.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room15.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room15.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room16.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room16.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/c_craft room17.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/c_craft room17.png',
+            'subHtml': '<h4>工藝室</h4><p></p>'
+        }]
+    })
+});
 $('.f3_d').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
@@ -42,8 +204,8 @@ $('.f3_d').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room10.png',
             'subHtml': '<h4>俄羅斯輪盤賭桌</h4><p></p>'
         }, {
-            "src": 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room11.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room11.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room11-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room11-02.png',
             'subHtml': '<h4>撞球桌</h4><p></p>'
         }, {
             "src": 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room12.png',
@@ -68,6 +230,10 @@ $('.f3_d').on('click', function() {
         }, {
             "src": 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room17.png',
             'thumb': 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room17.png',
+            'subHtml': '<h4>保齡球</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room18.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f3/d_gaming room18.png',
             'subHtml': '<h4>保齡球</h4><p></p>'
         } ]
     })

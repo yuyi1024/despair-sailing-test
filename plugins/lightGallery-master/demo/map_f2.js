@@ -20,6 +20,28 @@ $('.f2_a').on('click', function() {
         }]
     })
 });
+$('.f2_b').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/f2/___ room-01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-01.png',
+            'subHtml': '<h4>？？？</h4><p></p>'
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f2/___ room-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-02.png',
+            'subHtml': "<h4>？？？</h4><p></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f2/___ room-03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-03.png',
+            'subHtml': "<h4>？？？</h4><p></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f2/___ room-04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-04.png',
+            'subHtml': "<h4>？？？</h4><p></p>"
+        }]
+    })
+});
 $('.f2_c').on('click', function() {
     $(this).lightGallery({
         dynamic: true,

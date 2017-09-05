@@ -14,8 +14,8 @@ $('.f1_a').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby03.png',
             'subHtml': "<h4>大廳</h4><p></p>"
         },{
-            "src": 'plugins/lightGallery-master/demo/img/map/f1/a-loby04.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby04.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f1/a-loby04-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f1/a-loby04-02.png',
             'subHtml': '<h4>大廳</h4><p></p>'
         }, {
             'src': 'plugins/lightGallery-master/demo/img/map/f1/a-loby05.png',

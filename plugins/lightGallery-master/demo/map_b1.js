@@ -2,24 +2,24 @@ $('.b1_a').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail00.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail00.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/b1/trail00.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail00.png',
             'subHtml': '<h4>學級裁判場-平面</h4><p></p>'
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail01.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail01.png',
             'subHtml': "<h4>學級裁判場-正</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail02.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail02.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail02.png',
             'subHtml': "<h4>學級裁判場-右</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail03.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail03.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail03.png',
             'subHtml': "<h4>學級裁判場-後</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail04.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail01/trail04.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/trail02/trail04.png',
             'subHtml': "<h4>學級裁判場-左</h4><p></p>"
         }]
     })
@@ -42,6 +42,20 @@ $('.b1_b').on('click', function() {
         }]
     })
 });
+$('.b1_d').on('click', function() {
+    $(this).lightGallery({
+        dynamic: true,
+        dynamicEl: [{
+            "src": 'plugins/lightGallery-master/demo/img/map/b1/d-power control room01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/d-power control room01.png',
+            'subHtml': '<h4>控電室</h4><p></p>'
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/d-power control room02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/d-power control room02.png',
+            'subHtml': "<h4>控電室</h4><p></p>"
+        }]
+    })
+});
 $('.b1_g').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
@@ -50,12 +64,12 @@ $('.b1_g').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/b1/a-stair.png',
             'subHtml': '<h4>走廊</h4><p></p>'
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor01-01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor01-01.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor01-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor01-02.png',
             'subHtml': "<h4>走廊<p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor02-01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor02-01.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor02-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/b1/b-corridor02-02.png',
             'subHtml': "<h4>走廊</h4><p></p>"
         }]
     })

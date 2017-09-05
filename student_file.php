@@ -191,7 +191,7 @@
 							</li>
 							<li>	
 								<a id="student9">
-									<img src="plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/緒坂 凜/緒坂 凜-dead.png" />
 									<div>
 										<span class="file_name">緒坂 凜</span>
 										<span class="file_talent">超高校級的護理師</span>
@@ -209,7 +209,7 @@
 							</li>
 							<li>
 								<a id="student5">
-									<img src="plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/速水 星蓮/速水 星蓮-dead.png" />
 									<div>
 										<span class="file_name">速水 星蓮</span>
 										<span class="file_talent">超高校級的騎士</span>

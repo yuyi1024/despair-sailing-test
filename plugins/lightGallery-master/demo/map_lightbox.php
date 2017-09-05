@@ -131,6 +131,7 @@
         <script src="plugins/lightGallery-master/demo/map_f1.js"></script>
         <script src="plugins/lightGallery-master/demo/map_f2.js"></script>
         <script src="plugins/lightGallery-master/demo/map_f3.js"></script>
+        <script src="plugins/lightGallery-master/demo/map_f4.js"></script>
         <script src="plugins/lightGallery-master/demo/map_b1.js"></script>
 
 

@@ -1,0 +1,287 @@
+.f4{
+  width:720px; 
+  height:2050px;
+  margin: 0 auto; 
+  display:block;
+}
+.f4 .l{
+  width:700px;
+  height:2050px;
+  position: absolute;
+  overflow: hidden;
+}
+.l:hover{
+  cursor: pointer;
+}
+
+.l div {
+  width:100px;
+  height:1000px;
+  position: absolute;
+  background-size: 100% 30px;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg); /* Internet Explorer */
+  -moz-transform:rotate(45deg); /* Firefox */
+  -webkit-transform:rotate(45deg); /* Safari 和 Chrome */
+  -o-transform:rotate(45deg); /* Opera */
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.l_2 div{
+  width:1500px !important;
+  height:1500px !important;
+}
+.l p{
+  text-align: center;
+  color: #fff;
+}
+
+/*=============================*/
+.f4_a{
+  -webkit-clip-path:polygon(45px 20px, 149px 20px,149px 2016px,45px 2016px);
+}
+.f4_a_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -930px;
+  left: -1865px;
+}
+.f4_a_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1470px;
+  left: 535px;
+}
+.f4_a:hover .f4_a_black,.f4_a:hover .f4_a_gray{
+  top: 270px;
+  left: -665px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_a_black p{
+  margin-top: 408px;
+  margin-left: -600px;
+  font-size: 34px;
+}
+.f4_a_gray p{
+  margin-top: 462px;
+  margin-left: -530px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_b{
+  -webkit-clip-path:polygon(149px 20px, 416px 20px,416px 466px,149px 466px);
+}
+.f4_b_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -840px;
+  left: -800px;
+}
+.f4_b_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 360px;
+  left: 400px;
+}
+.f4_b:hover .f4_b_black,.f4_b:hover .f4_b_gray{
+  top: -240px;
+  left: -200px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_b_black p{
+  margin-top: 460px;
+  margin-left: -40px;
+  font-size: 40px;
+}
+.f4_b_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_c{
+  -webkit-clip-path:polygon(149px 466px, 416px 466px,416px 856px,292px 856px,292px 876px,149px 876px);
+}
+.f4_c_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -420px;
+  left: -800px;
+}
+.f4_c_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 780px;
+  left: 400px;
+}
+.f4_c:hover .f4_c_black,.f4_c:hover .f4_c_gray{
+  top: 180px;
+  left: -200px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_c_black p{
+  margin-top: 460px;
+  margin-left: -40px;
+  font-size: 40px;
+}
+.f4_c_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_d{
+  -webkit-clip-path:polygon(149px 1211px, 573px 1211px,573px 1833px,149px 1833px);
+}
+.f4_d_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -450px;
+  left: -940px;
+}
+.f4_d_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1150px;
+  left: 660px;
+}
+.f4_d:hover .f4_d_black,.f4_d:hover .f4_d_gray{
+  top: 350px;
+  left: -140px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_d_black p{
+  margin-top: 460px;
+  margin-left: -40px;
+  font-size: 40px;
+}
+.f4_d_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_e{
+  -webkit-clip-path:polygon(518px 20px, 678px 20px,678px 251px,518px 251px);
+}
+.f4_e_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -880px;
+  left: -505px;
+}
+.f4_e_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 320px;
+  left: 695px;
+}
+.f4_e:hover .f4_e_black,.f4_e:hover .f4_e_gray{
+  top: -280px;
+  left: 95px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_e_black p{
+  margin-top: 410px;
+  margin-left: -120px;
+  font-size: 32px;
+}
+.f4_e_gray p{
+  margin-top: 462px;
+  margin-left: -120px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_f{
+  -webkit-clip-path:polygon(518px 251px, 678px 251px,678px 328px,518px 328px);
+}
+.f4_f_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -725px;
+  left: -410px;
+}
+.f4_f_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 275px;
+  left: 590px;
+}
+.f4_f:hover .f4_f_black,.f4_f:hover .f4_f_gray{
+  top: -225px;
+  left: 90px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_f_black p{
+  margin-top: 470px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+.f4_f_gray p{
+  margin-top: 522px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+/*=============================*/
+.f4_g{
+  -webkit-clip-path:polygon(416px 20px, 518px 20px,518px 328px,617px 329px, 617px 423px, 678px 423px, 678px 876px, 427px 876px, 427px 856px, 416px 856px);
+}
+.f4_g_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -1050px;
+  left: -970px;
+}
+.f4_g_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 950px;
+  left: 1030px;
+}
+.f4_g:hover .f4_g_black,.f4_g:hover .f4_g_gray{
+  top: -50px;
+  left: 30px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_g_black p{
+  margin-top: 555px;
+  margin-left: 230px;
+  font-size: 38px;
+}
+.f4_g_gray p{
+  margin-top: 611px;
+  margin-left: 230px;
+  font-size: 15px;
+}
+/*=============================*/
+.f4_h{
+  -webkit-clip-path:polygon(149px 876px,291px 876px,291px 856px,427px 856px,427px 876px,678px 876px,678px 2016px,149px 2016px,149px 1833px,573px 1833px,573px 1211px,415px 1211px,361px 1231px,305px 1211px,149px 1211px);
+}
+.f4_h_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -250px;
+  left: -1400px;
+}
+.f4_h_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 1750px;
+  left: 600px;
+}
+.f4_h:hover .f4_h_black,.f4_h:hover .f4_h_gray{
+  top: 750px;
+  left: -400px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f4_h_black p{
+  margin-top: 340px;
+  margin-left: -550px;
+  font-size: 40px;
+}
+.f4_h_gray p{
+  margin-top: 402px;
+  margin-left: -550px;
+  font-size: 15px;
+}
+
+.f4_a:hover, .f4_b:hover, .f4_c:hover, .f4_d:hover, .f4_e:hover, .f4_f:hover, .f4_g:hover, .f4_h:hover, .f4_i:hover, .f4_j:hover, .f4_k:hover{
+  background:rgba(0,0,0,0.5);
+}
+/*=============================*/
+
+.f4_a:hover, .f4_b:hover, .f4_c:hover, .f4_d:hover, .f4_e:hover, .f4_f:hover, .f4_g:hover, .f4_h:hover{
+  background:rgba(0,0,0,0.5);
+}

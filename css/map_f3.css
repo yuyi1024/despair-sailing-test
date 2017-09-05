@@ -31,8 +31,98 @@
   color: #fff;
 }
 /*=============================*/
+.f3_a{
+  -webkit-clip-path:polygon(42px 45px, 422px 45px,422px 572px,42px 572px);
+}
+.f3_a_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -970px;
+  left: -1050px;
+}
+.f3_a_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 630px;
+  left: 550px;
+}
+.f3_a:hover .f3_a_black,.f3_a:hover .f3_a_gray{
+  top: -170px;
+  left: -250px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_a_black p{
+  margin-top: 465px;
+  margin-left: -40px;
+  font-size: 36px;
+}
+.f3_a_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_b{
+  -webkit-clip-path:polygon(422px 45px, 675px 45px,675px 215px,475px 215px,475px 329px,422px 329px);
+}
+.f3_b_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -850px;
+  left: -440px;
+}
+.f3_b_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 150px;
+  left: 560px;
+}
+.f3_b:hover .f3_b_black,.f3_b:hover .f3_b_gray{
+  top: -350px;
+  left: 60px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_b_black p{
+  margin-top: 465px;
+  margin-left: -40px;
+  font-size: 36px;
+}
+.f3_b_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
+.f3_c{
+  -webkit-clip-path:polygon(422px 329px, 475px 329px,475px 215px,675px 215px,675px 572px,422px 572px);
+}
+.f3_c_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -570px;
+  left: -440px;
+}
+.f3_c_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 430px;
+  left: 560px;
+}
+.f3_c:hover .f3_c_black,.f3_c:hover .f3_c_gray{
+  top: -70px;
+  left: 60px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f3_c_black p{
+  margin-top: 465px;
+  margin-left: -40px;
+  font-size: 36px;
+}
+.f3_c_gray p{
+  margin-top: 521px;
+  margin-left: -40px;
+  font-size: 15px;
+}
+/*=============================*/
 .f3_d{
-  -webkit-clip-path:polygon(45px 571px, 676px 571px,676px 1115px,45px 1115px);
+  -webkit-clip-path:polygon(45px 573px, 676px 573px,676px 1115px,45px 1115px);
 }
 .f3_d_black{
   background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);

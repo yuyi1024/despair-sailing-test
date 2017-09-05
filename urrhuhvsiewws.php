@@ -9,6 +9,7 @@
 		<link href="css/map_f1.css" rel="stylesheet">
 		<link href="css/map_f2.css" rel="stylesheet">
 		<link href="css/map_f3.css" rel="stylesheet">
+		<link href="css/map_f4.css" rel="stylesheet">
 		<link href="css/map_b1.css" rel="stylesheet">
 
 		<link rel="stylesheet" href="css/snip_button.css">
@@ -110,7 +111,7 @@
 							</div>
 
 							<div class="f2">
-								<img src="images/map/f2/unknown/f2_3.png" style=" position:absolute;">
+								<img src="images/map/f2/f2_3.png" style=" position:absolute;">
 
 								<div class="f2_a l">
 									<div class="f2_a_gray"><p>Utility Room</p></div>
@@ -171,7 +172,22 @@
 							</div>
 
 							<div class="f3">
-								<img src="images/map/f3/f3_2.png" style=" position:absolute;">
+								<img src="images/map/f3/f3_3.png" style=" position:absolute;">
+
+								<div class="f3_a l">
+									<div class="f3_a_gray"><p>Performance Hall</p></div>
+									<div class="f3_a_black"><p><b>表演廳</b></p></div>
+								</div>
+
+								<div class="f3_b l">
+									<div class="f3_b_gray"><p>Preparation Room</p></div>
+									<div class="f3_b_black"><p><b>準備室</b></p></div>
+								</div>
+
+								<div class="f3_c l">
+									<div class="f3_c_gray"><p>Gaming Room</p></div>
+									<div class="f3_c_black"><p><b>工藝室</b></p></div>
+								</div>
 
 								<div class="f3_d l">
 									<div class="f3_d_gray"><p>Gaming Room</p></div>
@@ -216,6 +232,65 @@
 							</div>
 
 
+							<!--f4-->
+
+							<div id="f4" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number/number4.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>4樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f4">
+								<img src="images/map/f4/f4_3.png" style=" position:absolute;">
+
+								<div class="f4_a l l_2">
+									<div class="f4_a_gray"><p>Shooting Range</p></div>
+									<div class="f4_a_black"><p><b>狙擊場</b></p></div>
+								</div>
+
+								<div class="f4_b l">
+									<div class="f4_b_gray"><p>Cabin</p></div>
+									<div class="f4_b_black"><p><b>小木屋</b></p></div>
+								</div>
+
+								<div class="f4_c l">
+									<div class="f4_c_gray"><p>Garage</p></div>
+									<div class="f4_c_black"><p><b>車庫</b></p></div>
+								</div>
+
+								<!--
+								<div class="f4_d l">
+									<div class="f4_d_gray"><p>Library</p></div>
+									<div class="f4_d_black"><p><b>圖書館</b></p></div>
+								</div>
+								-->
+
+								<div class="f4_e l">
+									<div class="f4_e_gray"><p>Restroom</p></div>
+									<div class="f4_e_black"><p><b>洗手間</b></p></div>
+								</div>
+
+								<div class="f4_f l">
+									<div class="f4_f_gray"><p></p></div>
+									<div class="f4_f_black"><p><b>垃圾<br/>處理間</b></p></div>
+								</div>
+
+								<div class="f4_g l">
+									<div class="f4_g_gray"><p>Reading Room</p></div>
+									<div class="f4_g_black"><p><b>公共閱覽區</b></p></div>
+								</div>
+
+								<div class="f4_h l l_2">
+									<div class="f4_h_gray"><p>Corridor</p></div>
+									<div class="f4_h_black"><p><b>走廊</b></p></div>
+								</div>
+
+							</div>
+
+
 							<!--b1-->
 
 							<div id="b1" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
@@ -239,17 +314,18 @@
 									<div class="b1_b_gray"><p>Garbage Collection</p></div>
 									<div class="b1_b_black"><p><b>垃圾集中處</b></p></div>
 								</div>
-
-								<!--<div class="b1_c l">
-									<div class="b1_c_gray"><p>Electricity Distribution</p></div>
-									<div class="b1_c_black"><p><b>配電室</b></p></div>
+								<!--
+								<div class="b1_c l">
+									<div class="b1_c_gray"><p>Laboratory</p></div>
+									<div class="b1_c_black"><p><b>實驗室</b></p></div>
 								</div>
-
+								-->
 								<div class="b1_d l">
-									<div class="b1_d_gray"><p>Laboratory</p></div>
-									<div class="b1_d_black"><p><b>實驗室</b></p></div>
+									<div class="b1_d_gray"><p>Power Control Room</p></div>
+									<div class="b1_d_black"><p><b>控電室</b></p></div>
 								</div>
-
+								<!--
+								
 								<div class="b1_e l">
 									<div class="b1_e_gray"><p>Laboratory</p></div>
 									<div class="b1_e_black"><p><b>實驗室</b></p></div>
