@@ -25,7 +25,7 @@
 			<header id="masthead" class="site-header" role="banner">
 				<div class="custom-header">
 					<div class="custom-header-media">
-						<div id="wp-custom-header" class="wp-custom-header"><img src="images/home-2.png" class="home_pic" width="100%" height="auto" alt="希望的航行者 &amp; 絕望的渡輪" srcset="images/home-2.png 1020w" sizes="100vw" /></div>	
+						<div id="wp-custom-header" class="wp-custom-header"><img src="images/home-4.png" class="home_pic" width="100%" height="auto" alt="希望的航行者 &amp; 絕望的渡輪" srcset="images/home-4.png 1020w" sizes="100vw" /></div>	
 					</div>
 				</div>
 				<?php
@@ -41,7 +41,7 @@
 			<div class="site-content-contain">
 
 				<div class="cell_home">
-					<img src="images/home-2.png" width="100%">
+					<img src="images/home-4.png" width="100%">
 					<a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>">
 						<img src="images/monokitsune1.png" class="cell_monokitsune">
 						<img src="images/return_say.png" class="cell_say">
@@ -78,17 +78,23 @@
 								<!--
 								<p>2017.07.00.Mon. &nbsp;更新內容&nbsp;<img src="images/new.gif"></p>
 								-->
-								<p>2017.09.04.Mon. &nbsp;更新第二章 Recall&nbsp;<img src="images/new.gif"></p>
+								<p>2017.11.08.Wed. &nbsp;更新第四章 Recall&nbsp;<img src="images/new.gif"></p>
+								<p>2017.10.09.Mon. &nbsp;更新第四章開放地圖&nbsp;</p>
+								<p>2017.10.04.Wed. &nbsp;更新Q&A 61&nbsp;</p>
+								<p>2017.10.02.Mon. &nbsp;更新第三章 Recall&nbsp;</p>
+								<p>2017.10.02.Mon. &nbsp;更新Q&A 60&nbsp;</p>
+								<p>2017.09.07.Thu. &nbsp;更新第三章開放地圖&nbsp;</p>
+								<p>2017.09.04.Mon. &nbsp;更新第二章 Recall&nbsp;</p>
 								<p>2017.08.15.Tue. &nbsp;更新Q&A 59&nbsp;</p>
 								<p>2017.08.12.Sat. &nbsp;更新第二章開放地圖&nbsp;</p>
 								<p>2017.08.11.Fri. &nbsp;更新第一章 Recall&nbsp;</p>
-								<p>2017.07.19.Wed. &nbsp;更新Q&A 57~58&nbsp;</p>
+								<!--<p>2017.07.19.Wed. &nbsp;更新Q&A 57~58&nbsp;</p>
 								<p>2017.07.17.Mon. &nbsp;更新Q&A 54~56&nbsp;</p>
 								<p>2017.07.15.Sun. &nbsp;更新Q&A 53&nbsp;</p>
 								<p>2017.07.15.Sat. &nbsp;更新Q&A 52&nbsp;</p>
 								<p>2017.07.14.Fri. &nbsp;更新Q&A 51&nbsp;</p>
 								<p>2017.07.14.Fri. &nbsp;正式入學名單公布&nbsp;</p>
-								<!--<p>2017.07.13.Thu. &nbsp;更新Q&A 49~50&nbsp;</p>
+								<p>2017.07.13.Thu. &nbsp;更新Q&A 49~50&nbsp;</p>
 								<p>2017.07.09.Sun. &nbsp;更新Q&A 48&nbsp;</p>
 								<p>2017.06.26.Mon. &nbsp;更新Q&A 47&nbsp;</p>
 								<p>2017.06.15.Thu. &nbsp;更新Q&A 46&nbsp;</p>

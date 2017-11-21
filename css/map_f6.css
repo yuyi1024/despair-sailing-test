@@ -1,0 +1,201 @@
+.f6{
+  width:720px; 
+  height:2050px;
+  margin: 0 auto; 
+  display:block;
+}
+.f6 .l{
+  width:700px;
+  height:2050px;
+  position: absolute;
+  overflow: hidden;
+}
+.l:hover{
+  cursor: pointer;
+}
+
+.l div {
+  width:100px;
+  height:1000px;
+  position: absolute;
+  background-size: 100% 30px;
+  transform:rotate(45deg);
+  -ms-transform:rotate(45deg); /* Internet Explorer */
+  -moz-transform:rotate(45deg); /* Firefox */
+  -webkit-transform:rotate(45deg); /* Safari 和 Chrome */
+  -o-transform:rotate(45deg); /* Opera */
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.l_2 div{
+  width:1500px !important;
+  height:1500px !important;
+}
+.l p{
+  text-align: center;
+  color: #fff;
+}
+
+/*=============================*/
+
+.f6_a{
+  -webkit-clip-path:polygon(49px 86px, 163px 88px, 251px 25px, 468px 25px, 557px 88px, 672px 86px, 672px 285px, 513px 285px, 513px 360px, 207px 360px, 207px 285px, 49px 285px);
+}
+.f6_a_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -830px;
+  left: -945px;
+}
+.f6_a_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 770px;
+  left: 655px;
+}
+.f6_a:hover .f6_a_black,.f6_a:hover .f6_a_gray{
+  top: -300px;
+  left: -145px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f6_a_black p{
+  margin-top: 460px;
+  margin-left: 20px;
+  font-size: 40px;
+}
+.f6_a_gray p{
+  margin-top: 520px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+/*=============================*/
+
+.f6_b{
+  -webkit-clip-path:polygon(49px 285px, 207px 285px, 207px 483px, 49px 483px);
+}
+.f6_b_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -630px;
+  left: -867px;
+}
+.f6_b_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 370px;
+  left: 133px;
+}
+.f6_b:hover .f6_b_black,.f6_b:hover .f6_b_gray{
+  top: -130px;
+  left: -367px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f6_b_black p{
+  margin-top: 469px;
+  margin-left: 20px;
+  font-size: 34px;
+}
+.f6_b_gray p{
+  margin-top: 522px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+/*=============================*/
+.f6_c{
+  -webkit-clip-path:polygon(513px 285px, 672px 285px, 672px 483px, 513px 483px);
+}
+.f6_c_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -630px;
+  left: -413px;
+}
+.f6_c_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 370px;
+  left: 587px;
+}
+.f6_c:hover .f6_c_black,.f6_c:hover .f6_c_gray{
+  top: -130px;
+  left: 87px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f6_c_black p{
+  margin-top: 469px;
+  margin-left: 20px;
+  font-size: 34px;
+}
+.f6_c_gray p{
+  margin-top: 522px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+/*=============================*/
+
+
+
+.f6_e{
+  -webkit-clip-path:polygon(229px 364px, 494px 364px, 494px 650px, 229px 650px);
+}
+.f6_e_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -800px;
+  left: -945px;
+}
+.f6_e_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 800px;
+  left: 655px;
+}
+.f6_e:hover .f6_e_black,.f6_e:hover .f6_e_gray{
+  top: 0px;
+  left: -145px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f6_e_black p{
+  margin-top: 469px;
+  margin-left: 20px;
+  font-size: 34px;
+}
+.f6_e_gray p{
+  margin-top: 520px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+/*=============================*/
+.f6_f{
+  -webkit-clip-path:polygon(70px 480px, 229px 480px, 229px 715px, 155px 715px, 155px 1718px, 566px 1718px, 566px 715px, 230px 715px,230px 645px,  494px 645px, 494px 480px, 647px 480px, 647px 1989px, 70px 1989px);
+}
+.f6_f_black{
+  background: linear-gradient(rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 50%);
+  top: -1510px;
+  left: -2390px;
+}
+.f6_f_gray{
+  background: linear-gradient(rgba(0,0,0,0) 50%, rgba(115, 94, 94,0.9) 50%);
+  top: 2490px;
+  left: 1610px;
+}
+.f6_f:hover .f6_f_black,.f6_f:hover .f6_f_gray{
+  top: 490px;
+  left: -390px;
+  -webkit-transition: 1s; /* Safari */
+  transition: 1s;
+}
+.f6_f_black p{
+  margin-top: 1151px;
+  margin-left: 870px;
+  font-size: 40px;
+}
+.f6_f_gray p{
+  margin-top: 1211px;
+  margin-left: 870px;
+  font-size: 15px;
+}
+/*=============================*/
+
+
+/*=============================*/
+
+.f6_a:hover, .f6_b:hover, .f6_c:hover, .f6_d:hover, .f6_e:hover, .f6_f:hover{
+  background:rgba(0,0,0,0.5);
+}

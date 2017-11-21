@@ -10,6 +10,8 @@
 		<link href="css/map_f2.css" rel="stylesheet">
 		<link href="css/map_f3.css" rel="stylesheet">
 		<link href="css/map_f4.css" rel="stylesheet">
+		<link href="css/map_f5.css" rel="stylesheet">
+		<link href="css/map_f6.css" rel="stylesheet">
 		<link href="css/map_b1.css" rel="stylesheet">
 
 		<link rel="stylesheet" href="css/snip_button.css">
@@ -244,7 +246,7 @@
 							</div>
 
 							<div class="f4">
-								<img src="images/map/f4/f4_3.png" style=" position:absolute;">
+								<img src="images/map/f4/f4_4.png" style=" position:absolute;">
 
 								<div class="f4_a l l_2">
 									<div class="f4_a_gray"><p>Shooting Range</p></div>
@@ -261,12 +263,12 @@
 									<div class="f4_c_black"><p><b>車庫</b></p></div>
 								</div>
 
-								<!--
+								
 								<div class="f4_d l">
 									<div class="f4_d_gray"><p>Library</p></div>
 									<div class="f4_d_black"><p><b>圖書館</b></p></div>
 								</div>
-								-->
+								
 
 								<div class="f4_e l">
 									<div class="f4_e_gray"><p>Restroom</p></div>
@@ -290,6 +292,93 @@
 
 							</div>
 
+
+							<!--f5-->
+
+							<div id="f5" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number/number5.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>五樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f5">
+								<img src="images/map/f5/f5_4.png" style=" position:absolute;">
+
+								<div class="f5_a l">
+									<div class="f5_a_gray"><p>Garden</p></div>
+									<div class="f5_a_black"><p><b>花園</b></p></div>
+								</div>
+
+								<div class="f5_b l">
+									<div class="f5_b_gray"><p>Medicine Lab</p></div>
+									<div class="f5_b_black"><p><b>藥物實驗室</b></p></div>
+								</div>
+
+								<div class="f5_c l">
+									<div class="f5_c_gray"><p>Corridor</p></div>
+									<div class="f5_c_black"><p><b>走廊</b></p></div>
+								</div>
+
+								<div class="f5_d l">
+									<div class="f5_d_gray"><p>Gym</p></div>
+									<div class="f5_d_black"><p><b>健身房</b></p></div>
+								</div>
+
+								<div class="f5_e l">
+									<div class="f5_e_gray"><p>Shower</p></div>
+									<div class="f5_e_black"><p><b>淋浴間</b></p></div>
+								</div>
+
+								<div class="f5_f l l_2">
+									<div class="f5_f_gray"><p>Pool</p></div>
+									<div class="f5_f_black"><p><b>泳池區</b></p></div>
+								</div>
+								
+							</div>
+
+							<!--f6-->
+
+							<div id="f6" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
+								<img src="images/number/number6.png" style="width:100px; margin: 0 auto 0; display: block;">
+								<div  class="title_back">
+									<div class="title_front">
+										<h3><b>六樓</b></h3>
+									</div>
+								</div>
+							</div>
+
+							<div class="f6">
+								<img src="images/map/f6/f6_5.png" style=" position:absolute;">
+
+								<div class="f6_a l">
+									<div class="f6_a_gray"><p>Bridge</p></div>
+									<div class="f6_a_black"><p><b>艦橋</b></p></div>
+								</div>
+
+								<div class="f6_b l">
+									<div class="f6_b_gray"><p>Collection Room</p></div>
+									<div class="f6_b_black"><p><b>收藏室</b></p></div>
+								</div>
+
+								<div class="f6_c l">
+									<div class="f6_c_gray"><p>Guest Room</p></div>
+									<div class="f6_c_black"><p><b>會客室</b></p></div>
+								</div>
+
+								<div class="f6_e l">
+									<div class="f6_e_gray"><p>Astronomy</p></div>
+									<div class="f6_e_black"><p><b>觀星台</b></p></div>
+								</div>
+
+								<div class="f6_f l l_2">
+									<div class="f6_f_gray"><p>Rooftop</p></div>
+									<div class="f6_f_black"><p><b>甲板</b></p></div>
+								</div>
+								
+							</div>
 
 							<!--b1-->
 
@@ -330,11 +419,12 @@
 									<div class="b1_e_gray"><p>Laboratory</p></div>
 									<div class="b1_e_black"><p><b>實驗室</b></p></div>
 								</div>
-
-								<div class="b1_f l">
-									<div class="b1_f_gray"><p>Morgue</p></div>
-									<div class="b1_f_black"><p><b>停屍間</b></p></div>
-								</div>-->
+								-->
+								
+								<div class="b1_e l">
+									<div class="b1_e_gray"><p>Morgue</p></div>
+									<div class="b1_e_black"><p><b>停屍間</b></p></div>
+								</div>
 
 								<div class="b1_g l">
 									<div class="b1_g_gray"><p>Corridor</p></div>
@@ -344,53 +434,6 @@
 							</div>
 
 
-							<!--f5-->
-
-							<div id="f5" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number/number5.png" style="width:100px; margin: 0 auto 0; display: block;">
-								<div  class="title_back">
-									<div class="title_front">
-										<h3><b>五樓</b></h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="f5">
-								<img src="images/map/unknown/f5.png" style=" position:absolute;">
-
-								<div class="f5_a l">
-									<div class="f5_a_gray"><p></p></div>
-									<div class="f5_a_black"><p><b></b></p></div>
-								</div>
-
-								<div class="f5_b l">
-									<div class="f5_b_gray"><p></p></div>
-									<div class="f5_b_black"><p><b></b></p></div>
-								</div>
-
-								<!--<div class="f5_c l">
-									<div class="f5_c_gray"><p>Electricity Distribution</p></div>
-									<div class="f5_c_black"><p><b>配電室</b></p></div>
-								</div>
-
-								<div class="f5_d l">
-									<div class="f5_d_gray"><p>Laboratory</p></div>
-									<div class="f5_d_black"><p><b>實驗室</b></p></div>
-								</div>
-
-								<div class="f5_e l">
-									<div class="f5_e_gray"><p>Laboratory</p></div>
-									<div class="f5_e_black"><p><b>實驗室</b></p></div>
-								</div>
-
-								<div class="f5_f l">
-									<div class="f5_f_gray"><p>Morgue</p></div>
-									<div class="f5_f_black"><p><b>停屍間</b></p></div>
-								</div>-->
-
-								
-
-							</div>
 						
 					<?php
 						include('plugins/lightGallery-master/demo/map_lightbox.php');

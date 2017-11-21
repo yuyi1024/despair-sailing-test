@@ -248,8 +248,8 @@ $('#student10').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard1.jpg',
-            'thumb': 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard1.jpg'
+            "src": 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard-True.jpg',
+            'thumb': 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard-True.jpg'
         },
         {
             "src": 'plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-IDcard2.jpg',

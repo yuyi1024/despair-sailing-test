@@ -86,7 +86,9 @@
 								<p>噗浪背景： <a href="http://www.mafengwo.cn/i/3357442.html">海底圖</a></p>
 								<p>遺照： <a href="https://www.pixiv.net/member_illust.php?mode=medium&illust_id=31858068">id=31858068</a></p>
 								<!--<p>開頭動畫BGM： 彈丸論破原作遊戲 - Beautiful Days</p>-->
-								<p>開頭動畫BGM： 彈丸論破原作遊戲 - さよなら絶望学園</p>
+								<!--<p>開頭動畫BGM： 彈丸論破原作遊戲 - さよなら絶望学園</p>-->
+								<!-- <p>開頭動畫BGM： 《WHITE ALBUM 2 Original Soundtrack ~introductory~》- 届かない恋</p> -->
+								<p>開頭動畫BGM： 《Re:Zero Original Soundtrack》- 沈黙のレクイエム</p>
 								<p>網站BGM： 彈丸論破原作遊戲 - DANGANRONPA</p>	
 							</div>
 						</div>

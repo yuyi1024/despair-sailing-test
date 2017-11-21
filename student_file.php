@@ -137,7 +137,7 @@
 							</li>
 							<li>
 								<a id="student31">
-									<img src="plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/金澤 琉璃子/金澤 琉璃子-dead.png" />
 									<div>
 										<span class="file_name">金澤 琉璃子</span>
 										<span class="file_talent">超高校級的工藝師</span>
@@ -173,7 +173,7 @@
 							</li>
 							<li>
 								<a id="student3">
-									<img src="plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/若月 暁音/若月 暁音-dead.png" />
 									<div>
 										<span class="file_name">若月 暁音</span>
 										<span class="file_talent">超高校級的指揮家</span>
@@ -218,7 +218,7 @@
 							</li>
 							<li>
 								<a id="student14">
-									<img src="plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/五月七日 悠咲/五月七日 悠咲-dead.png" />
 									<div>
 										<span class="file_name">五月七日 悠咲</span>
 										<span class="file_talent">超高校級的修女</span>
@@ -236,16 +236,16 @@
 							</li>
 							<li>
 								<a id="student10">
-									<img src="plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/眠目 影心/眠目 影心-dead.png" />
 									<div>
 										<span class="file_name">眠目 影心</span>
-										<span class="file_talent">超高校級的心理輔導員</span>
+										<span class="file_talent">超高校級的催眠師</span>
 									</div>
 								</a>
 							</li>
 							<li>
 								<a id="student4">
-									<img src="plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/花島 紗里/花島 紗里-dead.png" />
 									<div>
 										<span class="file_name">花島 紗里</span>
 										<span class="file_talent">超高校級的腳本家</span>

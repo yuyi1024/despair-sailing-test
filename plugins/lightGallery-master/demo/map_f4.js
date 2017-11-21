@@ -116,17 +116,81 @@ $('.f4_d').on('click', function() {
     $(this).lightGallery({
         dynamic: true,
         dynamicEl: [{
-            "src": 'plugins/lightGallery-master/demo/img/map/f4/',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/',
-            'subHtml': '<h4></h4><p></p>'
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library01.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library01.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
         }, {
-            "src": 'plugins/lightGallery-master/demo/img/map/f4/',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/',
-            'subHtml': '<h4></h4><p></p>'
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library02.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
         }, {
-            "src": 'plugins/lightGallery-master/demo/img/map/f4/',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/',
-            'subHtml': '<h4></h4><p></p>'
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library03.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library03.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library04.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library05.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library05.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library06.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library06.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library07.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library07.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library08.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library08.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library09.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library09.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library10.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library10.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library11.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library11.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library12.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library12.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library13.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library13.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library14.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library14.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library15.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library15.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library16.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library16.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library17.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library17.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library18.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library18.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
+        }, {
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/d-library19.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/d-library19.png',
+            'subHtml': '<h4>圖書館</h4><p></p>'
         } ]
     })
 });
@@ -170,8 +234,8 @@ $('.f4_g').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room02.png',
             'subHtml': "<h4>公共閱覽區</h4><p></p>"
         }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room03-01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room03-01.png',
+            'src': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room03-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room03-02.png',
             'subHtml': "<h4>公共閱覽區</h4><p></p>"
         }, {
             'src': 'plugins/lightGallery-master/demo/img/map/f4/g-reading room04.png',
@@ -200,8 +264,8 @@ $('.f4_h').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor01.png',
             'subHtml': '<h4>走廊</h4><p></p>'
         } ,{
-            "src": 'plugins/lightGallery-master/demo/img/map/f4/h-corridor02-01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor02-01.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/h-corridor02-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor02-02.png',
             'subHtml': '<h4>走廊</h4><p></p>'
         } ,{
             "src": 'plugins/lightGallery-master/demo/img/map/f4/h-corridor03.png',
@@ -212,8 +276,8 @@ $('.f4_h').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor04.png',
             'subHtml': '<h4>走廊</h4><p></p>'
         } ,{
-            "src": 'plugins/lightGallery-master/demo/img/map/f4/h-corridor05-01.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor05-01.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f4/h-corridor05-02.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f4/h-corridor05-02.png',
             'subHtml': '<h4>走廊</h4><p></p>'
         } ]
     })

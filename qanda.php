@@ -53,6 +53,28 @@
 						<div class="qanda_sec">
 							<div class="about_sec1 animate-left">
 								<div id="QandA">
+									<p class="Question">Q61.想問絕航中的角色有開放進行同人二次創作嗎？(繪圖、COS之類的) </p>
+									<div class="Answer">
+										<p>A61.請務必先取得該名角色的中之同意，再進行上述的行為。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
+									<p class="Question">Q60.官方您好，想請問現今場外角色仍能創噗進行角色創作嗎？ </p>
+									<div class="Answer">
+										<p>A60.若是先前就已經報名成功、且角色有列在官網的場外學生名單之中，現在創立角噗進行相關的創作是可以的。</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="qanda_sec">
+							<div class="about_sec1 animate-left">
+								<div id="QandA">
 									<p class="Question">Q59.官方您好，這裡雖然因為忙碌所以當初沒有投報角色但持續有在關注企劃，剛剛看見了您8/14的公告，所以想來告訴您一聲：我知道!!我知道官網的動畫會改變！我知道我知道！！前幾天就有看見了，覺得超級用心！除此之外官方在架構貴企劃上真的很著重細節(地圖還有官網變化等等)，希望企劃可以圓滿完成，祝順利！</p>
 									<div class="Answer">
 										<p>A59.非常感謝你的關注與心得回報。希望官方所設計的細節能夠帶給各位參加者與觀眾愉快的企劃體驗，也很榮幸能獲得這樣的回饋，官方真的非常開心、也很感激，謝謝你的祝福！！<br/>（by 爆哭的全體工作人員）</p>

@@ -35,10 +35,6 @@ $('.f2_b').on('click', function() {
             'src': 'plugins/lightGallery-master/demo/img/map/f2/___ room-03.png',
             'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-03.png',
             'subHtml': "<h4>？？？</h4><p></p>"
-        }, {
-            'src': 'plugins/lightGallery-master/demo/img/map/f2/___ room-04.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/___ room-04.png',
-            'subHtml': "<h4>？？？</h4><p></p>"
         }]
     })
 });
@@ -114,6 +110,10 @@ $('.f2_f').on('click', function() {
         }, {
             'src': 'plugins/lightGallery-master/demo/img/map/f2/f-public03.png',
             'thumb': 'plugins/lightGallery-master/demo/img/map/f2/f-public03.png',
+            'subHtml': "<h4>公共區</h4><p></p>"
+        }, {
+            'src': 'plugins/lightGallery-master/demo/img/map/f2/f-public04.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f2/f-public04.png',
             'subHtml': "<h4>公共區</h4><p></p>"
         }]
     })

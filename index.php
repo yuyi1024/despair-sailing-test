@@ -2,15 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>希望的航行者&絕望的渡輪</title>
+    <title>《希望的航行者&絕望的渡輪》| 彈丸 論破 二創 企劃</title>
     <link rel="icon" href="images/anchor.png" type="image/x-icon" />  
     <script src="plugins/typed-js-master/js/typed.js" type="text/javascript"></script>
+    <script src="js/snowstorm-min.js" type="text/javascript"></script>
+		
+		<script>
+			snowStorm.flakesMaxActive = 36;    // show more snow on screen at once
+			snowStorm.followMouse = false;
+			snowStorm.snowCharacter = '•';
+			snowStorm.snowColor = 'rgba(255,255,255,0.8)';
+			snowStorm.vMaxX = 3;
+			snowStorm.vMaxY = 3;
+		</script>
+    
     <script>
     document.addEventListener('DOMContentLoaded', function(){
 
         Typed.new("#typed", {
             stringsElement: document.getElementById('typed-strings'),
-            typeSpeed: 100,
+            typeSpeed: 300,
+            //typeSpeed: 200,
             backDelay: 900,
             backSpeed: -20,
             loop: false,
@@ -30,6 +42,30 @@
 
     });
 
+    document.addEventListener('DOMContentLoaded', function(){
+
+        Typed.new("#typed2", {
+            stringsElement: document.getElementById('typed-strings2'),
+            typeSpeed: 150,
+            backDelay: 900,
+            backSpeed: -20,
+            loop: false,
+            contentType: 'html', // or text
+            // defaults to null for infinite loop
+            loopCount: null,
+            callback: function(){ foo(); },
+            resetCallback: function() { newTyped(); }
+        });
+
+        var resetElement = document.querySelector('.reset');
+        if(resetElement) {
+            resetElement.addEventListener('click', function() {
+                document.getElementById('typed2')._typed.reset();
+            });
+        }
+
+    });
+
     function newTyped(){ /* A new typed object */ }
 
     function foo(){ console.log("Callback"); }
@@ -38,8 +74,9 @@
     <link href="main.css" rel="stylesheet"/>
     <style>
         /* code for animated blinking cursor */
-        .typed-cursor{
-            opacity: 1;
+        /*閃閃I*/
+        .typed-cursor{ 
+            opacity: 0;
             font-weight: 100;
             -webkit-animation: blink 0.7s infinite;
             -moz-animation: blink 0.7s infinite;
@@ -47,7 +84,7 @@
             -o-animation: blink 0.7s infinite;
             animation: blink 0.7s infinite;
         }
-        @-keyframes blink{
+        /*@-keyframes blink{
             0% { opacity:1; }
             50% { opacity:0; }
             100% { opacity:1; }
@@ -71,7 +108,7 @@
             0% { opacity:1; }
             50% { opacity:0; }
             100% { opacity:1; }
-        }
+        }*/
     </style>
 
     <!--BGM-->
@@ -84,7 +121,7 @@
       var war_soundy_front_end = new war_SoundyFrontEnd(
       {
           pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
-          audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>     <source id="war_soundy_audio_player_source" src="plugins/soundy-background-music/music/index_bgm_2.mp3" type="audio/mpeg">  </audio></div>',
+          audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>     <source id="war_soundy_audio_player_source" src="plugins/soundy-background-music/music/ch5-bgm.mp3" type="audio/mpeg">  </audio></div>',
           audio_volume:               0.3,
           preview:                    'false',
           button_url_play_normal:     'images/play-square-grey.png',
@@ -100,8 +137,8 @@
 
 </head>
 <body>
-  <div style="display:none;">
-    　<p>私立希望之峰學園，集合各領域的超一流高校生，以培育精英為目的，並獲得政府公認的超特權學校。有人說，若能從這所學校畢業，人生幾乎等於是成功了。而你作為第８７屆新生，在踏入校門的一剎那昏了過去，醒來後發現……</p>
+  <div style="color:#000; position:absolute;">
+    　<h1 style="position:absolute; font-size:2px;">私立希望之峰學園，集合各領域的超一流高校生，以培育精英為目的，並獲得政府公認的超特權學校。有人說，若能從這所學校畢業，人生幾乎等於是成功了……</h1>
   </div>
 
   <div class="container">
@@ -114,15 +151,25 @@
         <p><br/>我討厭 <strong style="color:red;">太陽</strong>，^1200<br/><br/>那日出就如同侵略者一般，^1000<br/><br/>將海平面染上絕對的純白。^1200</p>
         <p>在這<b>超高校級</b>閃耀的每一天，^800<br/><br/>以<strong style="color:red;">希望</strong>照亮世界的每一天，^800<br/><br/>從沒有人懷疑過，^800在炙熱的光芒下，^800<br/><br/>那<b style="color:#000; text-shadow:1px 1px 1px #aaaaaa;">陰影</b>究竟有多深‧‧‧‧‧‧‧</p>
         -->
-
+				<!--
         <p><br/>月光只是黑夜中的幻影^1200<br/><br/>月下的誓言等於<strong style="color:red;">謊言</strong>^1200<br/><br/>以前的我不懂^1200<br/><br/>以狂奔之姿追逐著<strong>希望</strong>........^1200</p>
         <p><br/>但我早該知道^1000<br/>不管流出多少 <span style="color:#67676F;">▃▇▅▁▇</span>^800<br/>不管堆了多高的 <span style="color:#67676F;">▅▁▇█▄▃</span>^1000<br/>終究不可能碰觸到^1200<br/><br/>因為用這種東西堆疊出來的^1200<br/>不可能^500是<strong style="color:red;">^200幸^200福^200結^200局^500</strong><img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
-        
-
+        -->
+        <p><strong><i style="color:#FFB2D4; opacity:0.8;">隻手遮天，^500<br/>烏雲蔽日，^500<br/>搭上第十支箭，^1600<br/>不為眾生...^1200<br/>無關責任...^1000<br/>只求旭日不再的永夜。</i></strong></p>
+       
     </div>
-    <span id="typed" style="white-space:pre;"></span>
 
-  </div>     
+    <div id="typed-strings2">  
+      <p><br/>^2200別想^2200<br/>做夢^2500<br/>我不會再讓你^2800<br/>有機會^3200<br/>妨礙我^3900<br/><strong style="color:red; font-size:40px;">活^500下^500去^200！！</strong></p>
+    </div>
+
+    <span id="typed" style="white-space:pre;"></span>
+    <span id="typed2" style="white-space:pre;"></span>
+
+  </div>   
+
+
+
   <a class="skip" href="home.php">SKIP</a>
 
   <div class="cover"></div>
@@ -170,7 +217,7 @@ span, a{
 }
 body{
   background: #000;
-  background-image: url(plugins/typed-js-master/img/bg.png);
+  background-image: url(plugins/typed-js-master/img/bg2.png);
   background-size: 600px auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -181,14 +228,21 @@ span{
   color: #fff;
 }
 #typed{
-  vertical-align: middle;
+  position: absolute;
+  left: 30%;
+  text-align: left;
+}
+#typed2{
+  position: absolute;
+  right: 30%;
+  text-align: right;
 }
 .container{
   width: 60%;
-  margin: 5% auto;
+  margin: 2% auto;
   display: block;
-  text-align: center;
-  line-height: 50px;
+  line-height: 70px;
+  /*line-height: 50px;*/
 }
 .cover{
   width: 250px;
