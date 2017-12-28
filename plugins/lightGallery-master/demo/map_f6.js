@@ -10,8 +10,8 @@ $('.f6_a').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f6/a-bridge02.png',
             'subHtml': '<h4>艦橋</h4><p></p>'
         },{
-            "src": 'plugins/lightGallery-master/demo/img/map/f6/a-bridge03.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/a-bridge03.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f6/a-bridge03-2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/a-bridge03-2.png',
             'subHtml': '<h4>艦橋</h4><p></p>'
         },{
             "src": 'plugins/lightGallery-master/demo/img/map/f6/a-bridge04.png',
@@ -52,12 +52,12 @@ $('.f6_b').on('click', function() {
             'thumb': 'plugins/lightGallery-master/demo/img/map/f6/b-collection room02.png',
             'subHtml': '<h4>收藏室</h4><p></p>'
         },{
-            "src": 'plugins/lightGallery-master/demo/img/map/f6/b-collection room03.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/b-collection room03.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f6/b-collection room03-2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/b-collection room03-2.png',
             'subHtml': '<h4>收藏室</h4><p></p>'
         },{
-            "src": 'plugins/lightGallery-master/demo/img/map/f6/b-collection room04.png',
-            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/b-collection room04.png',
+            "src": 'plugins/lightGallery-master/demo/img/map/f6/b-collection room04-2.png',
+            'thumb': 'plugins/lightGallery-master/demo/img/map/f6/b-collection room04-2.png',
             'subHtml': '<h4>收藏室</h4><p></p>'
         },{
             "src": 'plugins/lightGallery-master/demo/img/map/f6/b-collection room05.png',

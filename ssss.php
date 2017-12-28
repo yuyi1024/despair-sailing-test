@@ -1,317 +1,299 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>希望的航行者&絕望的渡輪</title>
-		<?php
-			include('link.php');
-		?>
-		<link href="css/map_f1.css" rel="stylesheet">
-		<link href="css/map_f2.css" rel="stylesheet">
-		<link href="css/map_f3.css" rel="stylesheet">
-		<link href="css/map_b1.css" rel="stylesheet">
-
-		<link rel="stylesheet" href="css/snip_button.css">
-	</head>
-	<body>
-
-		<?php
-			include('navbar.php');
-		?>
-		<style type="text/css">
-			.navigation-top{
-				top: -54px;
-		    bottom: auto;
-		    position: fixed;
-			}
-			@media screen and ( max-width: 782px ) {
-				.navigation-top{
-		    	position: relative;
-				}
-			} 
-		</style>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>《希望的航行者&絕望的渡輪》| 彈丸 論破 二創 企劃</title>
+    <link rel="icon" href="images/anchor.png" type="image/x-icon" />  
+    <script src="plugins/typed-js-master/js/typed.js" type="text/javascript"></script>
+    <script src="js/snowstorm-min.js" type="text/javascript"></script>
+		
+		<script>
+			snowStorm.flakesMaxActive = 36;    // show more snow on screen at once
+			snowStorm.followMouse = false;
+			snowStorm.snowCharacter = '•';
+			snowStorm.snowColor = 'rgba(255,255,255,0.8)';
+			snowStorm.vMaxX = 3;
+			snowStorm.vMaxY = 3;
+		</script>
     
-			<div id="container" class="container">
-			<p style="position:fixed; right:0; top:75px; color:red;" class="notice1">請使用 Chrome 瀏覽器觀看。</p>
-			<p style="position:fixed; right:0; top:75px; color:red;" class="notice2">預觀看詳細地圖請使用電腦瀏覽。</p>
-				<div class="row">
-					<div class="col-lg-12">
-						<h2 class="title">地圖</h2>
-						<img src="images/title.png" style="margin: -10px auto 50px; display:block;">
-						
-							<div id="f1" class="instuction_title" style="margin-bottom:10px;">
-								<img src="images/number/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
-								<div  class="title_back">
-									<div class="title_front">
-										<h3><b>1樓</b></h3>
-									</div>
-								</div>
-							</div>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(){
 
-							<div class="f1">
-								<img src="images/map/f1/f1_2.png" style=" position:absolute;">
+        Typed.new("#typed", {
+            stringsElement: document.getElementById('typed-strings'),
+            typeSpeed: 300,
+            //typeSpeed: 200,
+            backDelay: 900,
+            backSpeed: -20,
+            loop: false,
+            contentType: 'html', // or text
+            // defaults to null for infinite loop
+            loopCount: null,
+            callback: function(){ foo(); },
+            resetCallback: function() { newTyped(); }
+        });
 
-								<div class="f1_a l">
-									<div class="f1_a_gray"><p>Lobby</p></div>
-									<div class="f1_a_black"><p><b>大廳</b></p></div>
-								</div>
+        var resetElement = document.querySelector('.reset');
+        if(resetElement) {
+            resetElement.addEventListener('click', function() {
+                document.getElementById('typed')._typed.reset();
+            });
+        }
 
-								<div class="f1_b l">
-									<div class="f1_b_gray"><p>Corridor & Restroom I</p></div>
-									<div class="f1_b_black"><p><b>走廊 & 洗手間 I</b></p></div>
-								</div>
+    });
 
-								<div class="f1_c l">
-									<div class="f1_c_gray"><p>Restaurant</p></div>
-									<div class="f1_c_black"><p><b>餐廳</b></p></div>
-								</div>
+    document.addEventListener('DOMContentLoaded', function(){
 
-								<div class="f1_d l">
-									<div class="f1_d_gray"><p>Store</p></div>
-									<div class="f1_d_black"><p><b>商店</b></p></div>
-								</div>
+        Typed.new("#typed2", {
+            stringsElement: document.getElementById('typed-strings2'),
+            typeSpeed: 150,
+            backDelay: 900,
+            backSpeed: -20,
+            loop: false,
+            contentType: 'html', // or text
+            // defaults to null for infinite loop
+            loopCount: null,
+            callback: function(){ foo(); },
+            resetCallback: function() { newTyped(); }
+        });
 
-								<div class="f1_e l">
-									<div class="f1_e_gray"><p>Kitchen</p></div>
-									<div class="f1_e_black"><p><b>廚房</b></p></div>
-								</div>
+        var resetElement = document.querySelector('.reset');
+        if(resetElement) {
+            resetElement.addEventListener('click', function() {
+                document.getElementById('typed2')._typed.reset();
+            });
+        }
 
-								<div class="f1_f l">
-									<div class="f1_f_gray"></div>
-									<div class="f1_f_black"><p><b>垃圾<br/>處理間</b></p></div>
-								</div>
+    });
 
-								<div class="f1_g l">
-									<div class="f1_g_gray"><p>Fridges</p></div>
-									<div class="f1_g_black"><p><b>冷藏 & 冷凍</b></p></div>
-								</div>
+    function newTyped(){ /* A new typed object */ }
 
-								<div class="f1_h l">
-									<div class="f1_h_gray"><p>Restroom II</p></div>
-									<div class="f1_h_black"><p><b>洗手間 II</b></p></div>
-								</div>
-								
-								<div class="f1_h l">
-									<div class="f1_h_gray"><p>Restroom II</p></div>
-									<div class="f1_h_black"><p><b>洗手間 II</b></p></div>
-								</div>
-								
-								<div class="f1_i l">
-									<div class="f1_i_gray"><p>Utility Room</p></div>
-									<div class="f1_i_black"><p><b>雜物間</b></p></div>
-								</div>
-							</div>
+    function foo(){ console.log("Callback"); }
 
+    </script>
+    <link href="main.css" rel="stylesheet"/>
+    <style>
+        /* code for animated blinking cursor */
+        /*閃閃I*/
+        .typed-cursor{ 
+            opacity: 0;
+            font-weight: 100;
+            -webkit-animation: blink 0.7s infinite;
+            -moz-animation: blink 0.7s infinite;
+            -ms-animation: blink 0.7s infinite;
+            -o-animation: blink 0.7s infinite;
+            animation: blink 0.7s infinite;
+        }
+        /*@-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-webkit-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-moz-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-ms-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-o-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }*/
+    </style>
 
-							<!--f2-->
+    <!--BGM-->
+    <script type='text/javascript' src='js/jquery.js'></script>
+    <link rel='stylesheet' id='jquery-ui-css'  href='plugins/soundy-background-music/css/jquery-ui.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='soundy_front_end-css'  href='' type='text/css' media='all' />
+    <script type='text/javascript' src='plugins/soundy-background-music/js/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='plugins/soundy-background-music/js/front-end.js'></script>
+    <script>
+      var war_soundy_front_end = new war_SoundyFrontEnd(
+      {
+          pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
+          audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay loop>     <source id="war_soundy_audio_player_source" src="plugins/soundy-background-music/music/ch5-bgm.mp3" type="audio/mpeg">  </audio></div>',
+          audio_volume:               0.3,
+          preview:                    'false',
+          button_url_play_normal:     'images/play-square-grey.png',
+          button_url_pause_normal:    'images/pause-square-grey.png',
+          button_url_play_hover:      'images/play-square-blue.png',
+          button_url_pause_hover:     'images/pause-square-blue.png',
+          user_agent_is_IOS:          false  } );
 
-							<div id="f2" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number/number2.png" style="width:100px; margin: 0 auto 0; display: block;">
-								<div  class="title_back">
-									<div class="title_front">
-										<h3><b>2樓</b></h3>
-									</div>
-								</div>
-							</div>
+      var war_soundy_responsive_mode = 'none';
+      var war_soundy_button_corner = 'upper_right';
+    </script>
+    <!--BGM-->
 
-							<div class="f2">
-								<img src="images/map/f2//f2_0.png" style=" position:absolute;">
+</head>
+<body>
+  <div style="color:#000; position:absolute;">
+    　<h1 style="position:absolute; font-size:2px;">私立希望之峰學園，集合各領域的超一流高校生，以培育精英為目的，並獲得政府公認的超特權學校。有人說，若能從這所學校畢業，人生幾乎等於是成功了……</h1>
+  </div>
 
-								<div class="f2_a l">
-									<div class="f2_a_gray"><p>Utility Room</p></div>
-									<div class="f2_a_black"><p><b>雜物間</b></p></div>
-								</div>
-
-								<!--
-								
-								-->
-
-								<div class="f2_c l">
-									<div class="f2_c_gray"><p>Nursing</p></div>
-									<div class="f2_c_black"><p><b>醫務室</b></p></div>
-								</div>
-
-								<div class="f2_d l">
-									<div class="f2_d_gray"><p>Laundry</p></div>
-									<div class="f2_d_black"><p><b>洗衣間</b></p></div>
-								</div>
-
-								<div class="f2_e l">
-									<div class="f2_e_gray"></div>
-									<div class="f2_e_black"><p><b>垃圾<br/>處理間</b></p></div>
-								</div>
-
-								<div class="f2_f l">
-									<div class="f2_f_gray"><p>Public Space</p></div>
-									<div class="f2_f_black"><p><b>公共區</b></p></div>
-								</div>
-
-								<div class="f2_g l">
-									<div class="f2_g_gray"><p>Private Room</p></div>
-									<div class="f2_g_black"><p><b>個人房間</b></p></div>
-								</div>
-
-								<div class="f2_h l">
-									<div class="f2_h_gray"><p>Private Room</p></div>
-									<div class="f2_h_black"><p><b>個人房間</b></p></div>
-								</div>
-
-								<div class="f2_i l">
-									<div class="f2_i_gray"><p>Corridor</p></div>
-									<div class="f2_i_black"><p><b>走廊</b></p></div>
-								</div>
-							</div>
-
-
-							<!--f3-->
-
-							<div id="f3" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number/number3.png" style="width:100px; margin: 0 auto 0; display: block;">
-								<div  class="title_back">
-									<div class="title_front">
-										<h3><b>3樓</b></h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="f3">
-								<img src="images/map/f3/f3_2.png" style=" position:absolute;">
-
-								<div class="f3_d l">
-									<div class="f3_d_gray"><p>Gaming Room</p></div>
-									<div class="f3_d_black"><p><b>遊戲廳</b></p></div>
-								</div>
-
-								<div class="f3_e l">
-									<div class="f3_e_gray"><p>Corridor</p></div>
-									<div class="f3_e_black"><p><b>走廊</b></p></div>
-								</div>
-
-								<div class="f3_f l">
-									<div class="f3_f_gray"><p>Restroom</p></div>
-									<div class="f3_f_black"><p><b>洗手間</b></p></div>
-								</div>
-
-								<div class="f3_g l">
-									<div class="f3_g_gray"><p></p></div>
-									<div class="f3_g_black"><p><b>垃圾<br/>處理間</b></p></div>
-								</div>
-
-								<div class="f3_h l">
-									<div class="f3_h_gray"><p>Counseling Room</p></div>
-									<div class="f3_h_black"><p><b>諮商輔導室</b></p></div>
-								</div>
-
-								<div class="f3_i l">
-									<div class="f3_i_gray"><p>Information Room</p></div>
-									<div class="f3_i_black"><p><b>資訊室</b></p></div>
-								</div>
-
-								<div class="f3_j l">
-									<div class="f3_j_gray"><p>Church</p></div>
-									<div class="f3_j_black"><p><b>教堂</b></p></div>
-								</div>
-
-								<div class="f3_k l">
-									<div class="f3_k_gray"><p>Sewing Room</p></div>
-									<div class="f3_k_black"><p><b>裁縫工作室</b></p></div>
-								</div>
-
-							</div>
-
-
-							<!--b1-->
-
-							<div id="b1" class="instuction_title" style="margin-top:100px; margin-bottom:10px;">
-								<img src="images/number/b1.png" style="width:100px; margin: 0 auto 0; display: block;">
-								<div  class="title_back">
-									<div class="title_front">
-										<h3><b>地下室</b></h3>
-									</div>
-								</div>
-							</div>
-
-							<div class="b1">
-								<!--<img src="images/map/b1/b1_0.png" style=" position:absolute;">-->
-								<img src="images/map/b1/b1_1_trail.png" style=" position:absolute;">
-
-								<div class="b1_a l">
-									<div class="b1_a_gray"><p>Class Trial</p></div>
-									<div class="b1_a_black"><p><b>學級裁判場</b></p></div>
-								</div>
-
-								<div class="b1_b l">
-									<div class="b1_b_gray"><p>Garbage Collection</p></div>
-									<div class="b1_b_black"><p><b>垃圾集中處</b></p></div>
-								</div>
-
-								<!--
-
-								-->
-
-								<div class="b1_g l">
-									<div class="b1_g_gray"><p>Corridor</p></div>
-									<div class="b1_g_black"><p><b>走廊</b></p></div>
-								</div>
-
-							</div>
-
-						
-					<?php
-						include('plugins/lightGallery-master/demo/map_lightbox.php');
-					?>
-
-					</div>
-				</div>		
-			</div>
-
-			<div class="snip" style="right:20px;">
-			  <figure class="snip1566 floor">
-			    <img src="images/number/number1.png" alt="sq-sample14" />
-			    <figcaption><img src="images/number/number1_h.png"></figcaption>
-			    <a href="map.php#f1"></a>
-			  </figure>
-
-			  <figure class="snip1566 floor">
-			    <img src="images/number/number2.png" />
-			    <figcaption><img src="images/number/number2_h.png"></figcaption>
-			    <a href="map.php#f2"></a>
-			  </figure>
-				
+  <div class="container">
+    <div id="typed-strings">
+        <!--
+        <p><strong style="color:red;">私立希望之峰學園，</strong>^100<br/>集合各領域的超一流高校生，^100<br/>以培育精英為目的，^100並獲得政府公認的超特權學校。^600<br/><br/>有人說，若能從這所學校畢業，^100<br/>人生幾乎等於是成功了。</p>
+        <p>這天對我來說，不單純只是 365 天當中的一天，^200<br/><strong>私立希望之峰學園</strong>，^300<br/>我現在就站在這樣一所學校前面，^500<br/><span style="line-height: 70px; font-size: 35px;">「差不多該進去了吧 . . .」</span>^300<br/>這是嶄新的校園生活，^200充滿<strong style="color:red;">希望</strong>的第一步 . . .^600<br/>. . . . . . 應該是這樣才對。^500<br/>咦 . . . ^300奇怪 . . .^500<br/>我怎麼 . . . . . .^1200/&>?+*!@<img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
+        -->
+        <!--
+        <p><br/>我討厭 <strong style="color:red;">太陽</strong>，^1200<br/><br/>那日出就如同侵略者一般，^1000<br/><br/>將海平面染上絕對的純白。^1200</p>
+        <p>在這<b>超高校級</b>閃耀的每一天，^800<br/><br/>以<strong style="color:red;">希望</strong>照亮世界的每一天，^800<br/><br/>從沒有人懷疑過，^800在炙熱的光芒下，^800<br/><br/>那<b style="color:#000; text-shadow:1px 1px 1px #aaaaaa;">陰影</b>究竟有多深‧‧‧‧‧‧‧</p>
+        -->
 				<!--
-			  
-			  -->
+        <p><br/>月光只是黑夜中的幻影^1200<br/><br/>月下的誓言等於<strong style="color:red;">謊言</strong>^1200<br/><br/>以前的我不懂^1200<br/><br/>以狂奔之姿追逐著<strong>希望</strong>........^1200</p>
+        <p><br/>但我早該知道^1000<br/>不管流出多少 <span style="color:#67676F;">▃▇▅▁▇</span>^800<br/>不管堆了多高的 <span style="color:#67676F;">▅▁▇█▄▃</span>^1000<br/>終究不可能碰觸到^1200<br/><br/>因為用這種東西堆疊出來的^1200<br/>不可能^500是<strong style="color:red;">^200幸^200福^200結^200局^500</strong><img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
+        -->
+        <p><strong><i style="color:#FFB2D4; opacity:0.8;">^500隻手遮天，^500<br/>烏雲蔽日，^500<br/>搭上第十支箭，^1600<br/>不為眾生...^1200<br/>無關責任...^1000<br/>只求旭日不再的永夜。</i></strong></p>
+       
+    </div>
 
-			  <figure class="snip1566 floor">
-			    <img src="images/number/b1.png" />
-			    <figcaption><img src="images/number/b1_h.png"></figcaption>
-			    <a href="map.php#b1"></a>
-			  </figure>
-			</div>
-	</body>
+    <div id="typed-strings2">  
+      <p><br/>^2700別想^2200<br/>做夢^2500<br/>我不會再讓你^2900<br/>有機會^3300<br/>妨礙我^3900<br/><strong style="color:red; font-size:40px;">活^500下^500去^200！！</strong></p>
+    </div>
+
+    <span id="typed" style="white-space:pre;"></span>
+    <span id="typed2" style="white-space:pre;"></span>
+
+  </div>   
+
+
+
+  <a class="skip" href="home.php">SKIP</a>
+
+  <div class="cover"></div>
+</body>
 </html>
 
-<style type="text/css">
-	.notice2{
-		display: none;
-		font-size: 26px;
-	}
-	.snip .floor{
-		max-width: 90px;
-		margin: 8px;
-	}
 
-	@media only screen and (max-width: 1000px) {
-	  .f1_a,.f1_b,.f1_c,.f1_d,.f1_e,.f1_f,.f1_g,.f1_h,.f1_i{
-	    display: none !important;
-	  }
-	  .notice1{
-			display: none;
-		}
-		.notice2{
-			display: block;
-		}
-	}
+<style type="text/css">
+span, a{
+  font-family: Microsoft JhengHei !important; 
+}
+.blood1{
+  bottom: 20px;
+  left: 50%;
+  width: 15%;
+  position: fixed;
+}
+.blood2{
+  bottom: 150px;
+  left: 60%;
+  width: 15%;
+  position: fixed;
+}
+.skip{
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  font-size: 25px;
+  background: none;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  margin: 0 0 0 -30px;
+  width: 60px;
+  text-decoration: none;
+  letter-spacing:3px;
+  opacity: 0.5;
+}
+.skip:hover{
+  opacity: 1;
+}
+.a{
+  width: 100%;
+  height: 600px;
+}
+body{
+  background: #000;
+  background-image: url(plugins/typed-js-master/img/bg2.png);
+  background-size: 600px auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 30%;
+}
+span{
+  font-size: 30px;
+  color: #fff;
+}
+#typed{
+  position: absolute;
+  left: 30%;
+  text-align: left;
+}
+#typed2{
+  position: absolute;
+  right: 30%;
+  text-align: right;
+}
+.container{
+  width: 60%;
+  margin: 2% auto;
+  display: block;
+  line-height: 70px;
+  /*line-height: 50px;*/
+}
+.cover{
+  width: 250px;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #000;
+  z-index: 99999999;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .container{
+    margin: 25% auto;
+    line-height: 80px;
+  }
+  .blood1{
+    bottom: 60px;
+    width: 35%;
+  }
+  .blood2{
+    bottom: 300px;
+    width: 35%;
+  }
+  .btn{
+    bottom: 150px;
+    font-size: 30px;
+  }
+  body{
+    background-size: 700px auto;
+    background-position: 50% 600%;
+  }
+  span{
+    font-size: 26px;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .container{
+    margin: 220px auto;
+    line-height: 60px;
+  }
+  body{
+    background-size: 850px auto;
+    background-position: 50% 40%;
+  }
+  span{
+    font-size: 32px;
+  }
+}
 
 
 </style>

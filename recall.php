@@ -101,6 +101,7 @@
 									<p><li>學級裁判：<a href="https://www.plurk.com/p/mfw4eo">Part 1</a>、<a href="https://www.plurk.com/p/mfx39f">Part 2</a></li></p>
 									<p><li>處刑：<a href="https://www.plurk.com/p/mfxdk4">https://www.plurk.com/p/mfxdk4</a></li></p>
 									<p><li>個人劇情：<a href="https://www.plurk.com/p/mfxe4t">●</a></li></p>
+									<p><li>主線交流：<a href="https://www.plurk.com/p/mg3mkz">https://www.plurk.com/p/mg3mkz</a></li></p>
 								</ul>
 							</div>
 						</div>
@@ -114,7 +115,7 @@
 									<p><li>標題：<b>能聽見火葬場上提線木偶的演奏嗎？</b></li></p>
 									<p><li>動機：<a href="https://www.plurk.com/p/mggrv4">https://www.plurk.com/p/mggrv4</a></li></p>
 									<p><li>監視器外傳、36：<a href="https://www.plurk.com/p/meb7qa">https://www.plurk.com/p/meb7qa</a></li></p>
-									<p><li>屍體發現廣播：<a href="https://www.plurk.com/p/mhs3uq">1</a>、<a href="https://www.plurk.com/p/mhs576">2</a></li></p>
+									<p><li>屍體發現廣播：<a id='ccc' href="https://www.plurk.com/p/mhs3uq">1</a>、<a href="https://www.plurk.com/p/mhs576">2</a></li></p>
 									<p><li>線索搜查：<a href="https://www.plurk.com/p/mhs5cs">屍體1+泳池內</a>、<a href="https://www.plurk.com/p/mhs5cz">泳池區</a>、<a href="https://www.plurk.com/p/mhs5d8">甲板</a>、<a href="https://www.plurk.com/p/mhs5dg">走廊+廁所</a>、<a href="https://www.plurk.com/p/mhs5dr">屍體2</a>、<a href="https://www.plurk.com/p/mhs5dx">花園</a></li></p>
 									<p><li>電梯時間：<a href="https://www.plurk.com/p/mhs7zg">https://www.plurk.com/p/mhs7zg</a></li></p>
 									<p><li>學級裁判：<a href="https://www.plurk.com/p/mhsar8">Part 1</a>、<a href="https://www.plurk.com/p/mhtnet">Part 2、<a href="https://www.plurk.com/p/mhvm3n">Part 3</a></li></p>
@@ -123,6 +124,24 @@
 								</ul>
 							</div>
 						</div>
+
+						<div class="about_sec1 animate-left">
+							<h3><b>第五章</b></h3>
+							<img src="images/title2.png" class="sub_title">
+							<div class="text ">
+								<ul>
+									<p><li>標題：<b>The Last …</b></li></p>
+									<p><li>主線交流：<a href="https://www.plurk.com/p/mjkarh">https://www.plurk.com/p/mjkarh</a></li></p>
+									<p><li>畢業廣播：<a href="https://www.plurk.com/p/mk0v5o">1</a>、<a href="https://www.plurk.com/p/mk839z">2</a></li></p>
+									<p><li>緊急冬眠日廣播：<a href="https://www.plurk.com/p/mk86t6">https://www.plurk.com/p/mk86t6</a></li></p>
+									<p><li>主線劇情：<a href="https://www.plurk.com/p/mka0th">2F走廊</a></li></p>
+									<p><li>屍體發現廣播：<a href="https://www.plurk.com/p/mka4w2">https://www.plurk.com/p/mka4w2</a></li></p>
+									<p><li>線索搜查：<a href="https://www.plurk.com/p/mka52y">屍體</a>、<a href="https://www.plurk.com/p/mka53i">武裝黑白狐</a>、<a href="https://www.plurk.com/p/mka556">鍋爐室</a>、<a href="https://www.plurk.com/p/mka55y">2F走廊-1F甲板</a>、<a href="https://www.plurk.com/p/mka569">醫務室</a></li></p>
+									<p><li>電梯時間：<a href="https://www.plurk.com/p/mka85x">https://www.plurk.com/p/mka85x</a></li></p>
+									<p><li>學級裁判：<a href="https://www.plurk.com/p/mkaamg">Part 1</a>、<a href="https://www.plurk.com/p/mkbqto">Part 2</a></li></p>
+									<p><li>角落的平板：<a href="https://www.plurk.com/p/mkc9lw">https://www.plurk.com/p/mkc9lw</a></li></p>
+								</ul>
+							</div>
 
 
 						<!--
@@ -160,4 +179,20 @@
 	if ($('#container').height() < $(window).height()) {
     document.getElementById('container').style.height = "100vh";
 	}
+</script>
+
+
+<!-- PIXCEL -->
+<script>
+	//觀看recall任一連結
+	$('.about_sec1 a ').click(function(){
+		$chapter = $(this).parent().parent().parent().prev().prev().text();
+		$category = $(this).parent().text();
+		$content = $(this).text();
+		fbq('track', 'InitiateCheckout', {
+			content_category: $chapter, 
+	    content_name: $category,
+	    contents: $content,
+	  });
+	});
 </script>

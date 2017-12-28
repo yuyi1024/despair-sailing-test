@@ -6,15 +6,15 @@
     <link rel="icon" href="images/anchor.png" type="image/x-icon" />  
     <script src="plugins/typed-js-master/js/typed.js" type="text/javascript"></script>
     <script src="js/snowstorm-min.js" type="text/javascript"></script>
-		
-		<script>
-			snowStorm.flakesMaxActive = 36;    // show more snow on screen at once
-			snowStorm.followMouse = false;
-			snowStorm.snowCharacter = '•';
-			snowStorm.snowColor = 'rgba(255,255,255,0.8)';
-			snowStorm.vMaxX = 3;
-			snowStorm.vMaxY = 3;
-		</script>
+    
+    <script>
+      snowStorm.flakesMaxActive = 36;    // show more snow on screen at once
+      snowStorm.followMouse = false;
+      snowStorm.snowCharacter = '•';
+      snowStorm.snowColor = 'rgba(255,255,255,0.8)';
+      snowStorm.vMaxX = 3;
+      snowStorm.vMaxY = 3;
+    </script>
     
     <script>
     document.addEventListener('DOMContentLoaded', function(){
@@ -135,6 +135,10 @@
     </script>
     <!--BGM-->
 
+
+    <?php
+      include('link.php');
+    ?>
 </head>
 <body>
   <div style="color:#000; position:absolute;">
@@ -151,16 +155,16 @@
         <p><br/>我討厭 <strong style="color:red;">太陽</strong>，^1200<br/><br/>那日出就如同侵略者一般，^1000<br/><br/>將海平面染上絕對的純白。^1200</p>
         <p>在這<b>超高校級</b>閃耀的每一天，^800<br/><br/>以<strong style="color:red;">希望</strong>照亮世界的每一天，^800<br/><br/>從沒有人懷疑過，^800在炙熱的光芒下，^800<br/><br/>那<b style="color:#000; text-shadow:1px 1px 1px #aaaaaa;">陰影</b>究竟有多深‧‧‧‧‧‧‧</p>
         -->
-				<!--
+        <!--
         <p><br/>月光只是黑夜中的幻影^1200<br/><br/>月下的誓言等於<strong style="color:red;">謊言</strong>^1200<br/><br/>以前的我不懂^1200<br/><br/>以狂奔之姿追逐著<strong>希望</strong>........^1200</p>
         <p><br/>但我早該知道^1000<br/>不管流出多少 <span style="color:#67676F;">▃▇▅▁▇</span>^800<br/>不管堆了多高的 <span style="color:#67676F;">▅▁▇█▄▃</span>^1000<br/>終究不可能碰觸到^1200<br/><br/>因為用這種東西堆疊出來的^1200<br/>不可能^500是<strong style="color:red;">^200幸^200福^200結^200局^500</strong><img src="plugins/typed-js-master/img/blood1.png" class="blood1"><img src="plugins/typed-js-master/img/blood2.png" class="blood2"></p>
         -->
-        <p><strong><i style="color:#FFB2D4; opacity:0.8;">隻手遮天，^500<br/>烏雲蔽日，^500<br/>搭上第十支箭，^1600<br/>不為眾生...^1200<br/>無關責任...^1000<br/>只求旭日不再的永夜。</i></strong></p>
+        <p><strong><i style="color:#FFB2D4; opacity:0.8;">^500隻手遮天，^500<br/>烏雲蔽日，^500<br/>搭上第十支箭，^1600<br/>不為眾生...^1200<br/>無關責任...^1000<br/>只求旭日不再的永夜。</i></strong></p>
        
     </div>
 
     <div id="typed-strings2">  
-      <p><br/>^2200別想^2200<br/>做夢^2500<br/>我不會再讓你^2800<br/>有機會^3200<br/>妨礙我^3900<br/><strong style="color:red; font-size:40px;">活^500下^500去^200！！</strong></p>
+      <p><br/>^2700別想^2200<br/>做夢^2500<br/>我不會再讓你^2900<br/>有機會^3300<br/>妨礙我^3900<br/><strong style="color:red; font-size:40px;">活^500下^500去^200！！</strong></p>
     </div>
 
     <span id="typed" style="white-space:pre;"></span>
@@ -297,3 +301,13 @@ span{
 
 
 </style>
+
+
+<script>
+  setTimeout(function() {
+    fbq('track', 'CompleteRegistration', {
+      content_name: 'FINISH',
+    });
+    console.log('FINISH');
+  }, 25 * 1000);
+</script>

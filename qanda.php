@@ -768,3 +768,24 @@ $(this).next().toggle("normal");
 
 </style>
 
+
+
+
+<!-- PIXCEL -->
+<script>
+	$('p.Question').one('click', function(){
+		$question = $(this).text();
+		//點開問題
+		fbq('track', 'Lead', {
+	    content_name: $question,
+	  });
+	});
+
+	$('#ask textarea').blur(function(){
+		$context = $(this).val();
+		//問問題
+		fbq('track', 'AddPaymentInfo', {
+	    content_name: $context,
+	  });
+	});
+</script>

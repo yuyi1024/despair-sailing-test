@@ -332,3 +332,18 @@
 		}
 	}
 </style>
+
+
+<!-- PIXCEL -->
+<script>
+	//離開頁面時幾％
+	$(window).bind('beforeunload', function(){
+		var scrollPercent = $(window).scrollTop() / ($(document).height() - $(window).height());
+		var scrollPercentRounded = (Math.round(scrollPercent*100)).toString()+'%';
+		console.log(scrollPercentRounded);
+		fbq('track', 'Search', {
+			contents: scrollPercentRounded,
+	  });
+	});
+</script>
+

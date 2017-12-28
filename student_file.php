@@ -128,7 +128,7 @@
 							</li>
 							<li>
 								<a id="student7">
-									<img src="plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/室伏 左十留/室伏 左十留-dead.png" />
 									<div>
 										<span class="file_name">室伏 左十留</span>
 										<span class="file_talent">超高校級的滑雪選手</span>
@@ -182,7 +182,7 @@
 							</li>
 							<li>
 								<a id="student23">
-									<img src="plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太.png" />
+									<img src="plugins/lightGallery-master/demo/img/student_file/宇佐見 颯太/宇佐見 颯太-dead.png" />
 									<div>
 										<span class="file_name">宇佐見 颯太</span>
 										<span class="file_talent">超高校級的駭客</span>
@@ -530,13 +530,6 @@
 </script>
    
 
-
-
-
-
-
-
-
 <!--tab-->
 <script>
 function openStudent(evt, studentName) {
@@ -557,3 +550,26 @@ function openStudent(evt, studentName) {
 document.getElementById("defaultOpen").click();
 </script>
 <!--tab-->
+
+
+
+
+<!-- PIXCEL -->
+<script>
+	$('#da-thumbs > li').mouseenter(function(){
+		$student = $(this).children().children().last().children().first().text()
+		
+		//hover同學
+		fbq('track', 'AddToCart', {
+	    content_name: $student,
+	  });
+	 	$(this).click(function(){
+	 		//關看同學資資料
+	 		fbq('track', 'Purchase', {
+	 			value: '0',
+		    content_name: $student,
+		  });
+	 	});
+	});
+
+</script>

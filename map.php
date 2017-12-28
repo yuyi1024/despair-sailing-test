@@ -46,7 +46,7 @@
 								<img src="images/number/number1.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
-										<h3><b>1樓</b></h3>
+										<h3><b>一樓</b></h3>
 									</div>
 								</div>
 							</div>
@@ -107,7 +107,7 @@
 								<img src="images/number/number2.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
-										<h3><b>2樓</b></h3>
+										<h3><b>二樓</b></h3>
 									</div>
 								</div>
 							</div>
@@ -168,7 +168,7 @@
 								<img src="images/number/number3.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
-										<h3><b>3樓</b></h3>
+										<h3><b>三樓</b></h3>
 									</div>
 								</div>
 							</div>
@@ -240,7 +240,7 @@
 								<img src="images/number/number4.png" style="width:100px; margin: 0 auto 0; display: block;">
 								<div  class="title_back">
 									<div class="title_front">
-										<h3><b>4樓</b></h3>
+										<h3><b>四樓</b></h3>
 									</div>
 								</div>
 							</div>
@@ -348,7 +348,22 @@
 							</div>
 
 							<div class="f6">
-								<img src="images/map/f6/f6_4.png" style=" position:absolute;">
+								<img src="images/map/f6/f6_5.png" style=" position:absolute;">
+
+								<div class="f6_a l">
+									<div class="f6_a_gray"><p>Bridge</p></div>
+									<div class="f6_a_black"><p><b>艦橋</b></p></div>
+								</div>
+
+								<div class="f6_b l">
+									<div class="f6_b_gray"><p>Collection Room</p></div>
+									<div class="f6_b_black"><p><b>收藏室</b></p></div>
+								</div>
+
+								<div class="f6_c l">
+									<div class="f6_c_gray"><p>Guest Room</p></div>
+									<div class="f6_c_black"><p><b>會客室</b></p></div>
+								</div>
 
 								<div class="f6_e l">
 									<div class="f6_e_gray"><p>Astronomy</p></div>
@@ -375,7 +390,7 @@
 							</div>
 
 							<div class="b1">
-								<img src="images/map/b1/b1_3.png" style=" position:absolute;">
+								<img src="images/map/b1/b1_4.png" style=" position:absolute;">
 								<!--<img src="images/map/b1/b1_3_trail.png" style=" position:absolute;">-->
 								
 								<!--
@@ -403,6 +418,11 @@
 								<!--
 
 								-->
+
+								<div class="b1_e l">
+									<div class="b1_e_gray"><p>Morgue</p></div>
+									<div class="b1_e_black"><p><b>停屍間</b></p></div>
+								</div>
 
 								<div class="b1_g l" title="用力點我">
 									<div class="b1_g_gray"><p>Corridor</p></div>
@@ -489,6 +509,31 @@
 			display: block;
 		}
 	}
-
-
 </style>
+
+
+<!-- PIXCEL -->
+<script>
+	$('.snip1566 a').click(function(){
+		$floor = $(this).attr('href');
+		//電梯傳送樓層
+		fbq('track', 'AddToWishlist', {
+	    content_name: $floor,
+	  });
+	 	
+	});
+
+	$('.l').click(function(){
+		$floor = $(this).parent().prev().children().last().children().children().text();
+		$room = $(this).children().last().text();
+		//查看房間詳細
+		fbq('track', 'ViewContent', {
+	    content_name: $floor,
+	    contents: $room,
+	  });
+	});
+
+
+
+
+</script>
